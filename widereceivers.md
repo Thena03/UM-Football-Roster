@@ -11,7 +11,21 @@ permalink: /wide-receivers/
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+<br>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
   <div class="roster-card text-center" data-name="brennan burton">

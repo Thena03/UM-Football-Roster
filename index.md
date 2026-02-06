@@ -46,7 +46,7 @@ permalink: /
 <!-- Tight Ends -->
 <a href="{{ '/tight-ends/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
-      <span class="text-lg text-white font-medium">Wide Receivers</span>
+      <span class="text-lg text-white font-medium">Tight Ends</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
