@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Quarterback Roster
-permalink: /quarterbacks
+permalink: /quarterbacks/
 ---
 
 <!-- Title -->

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Tight End Roster
-permalink: /wide-receivers
+permalink: /tight-ends/
 ---
 
 <!-- Title -->
