@@ -20,81 +20,53 @@ permalink: /quarterbacks/
     onkeyup="filterRoster()"
   >
 </div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
-<!-- Roster Rows -->
-<div class="max-w-4xl mx-auto space-y-4" id="rosterList">
-
-  <!-- Player Row -->
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="judd anderson">
+  <!-- Player Card -->
+  <div class="roster-card text-center" data-name="judd anderson">
     <img
       src="{{ '/static/2025/Judd Anderson.jpg' | relative_url }}"
       alt="Judd Anderson"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
+      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div>
-      <div class="text-lg font-semibold text-white">Judd Anderson</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
+    <div class="text-lg font-semibold text-white">Judd Anderson</div>
+    <div class="text-slate-400 text-sm">Quarterback</div>
   </div>
 
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="joseph borchers joe">
+  <div class="roster-card text-center" data-name="joseph borchers joe">
     <img
       src="{{ '/static/2025/Joe_Borchers.jpg' | relative_url }}"
       alt="Joseph Borchers"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
+      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div>
-      <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
+    <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers</div>
+    <div class="text-slate-400 text-sm">Quarterback</div>
   </div>
 
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="dereon coleman">
+  <div class="roster-card text-center" data-name="dereon coleman">
     <img
       src="{{ '/static/2026/Dereon_Coleman.jpg' | relative_url }}"
       alt="Dereon Coleman"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
+      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div>
-      <div class="text-lg font-semibold text-white">Dereon Coleman</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
+    <div class="text-lg font-semibold text-white">Dereon Coleman</div>
+    <div class="text-slate-400 text-sm">Quarterback</div>
   </div>
 
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="vinny gonzalez">
+  <div class="roster-card text-center" data-name="vinny gonzalez">
     <img
       src="{{ '/static/2025/Vinny_Gonzalez.jpg' | relative_url }}"
       alt="Vinny Gonzalez"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
+      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div>
-      <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
+    <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
+    <div class="text-slate-400 text-sm">Quarterback</div>
   </div>
 
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="darian mensah">
-    <img
-      src="{{ '/static/2026/Darian_Mensah.jpg' | relative_url }}"
-      alt="Darian Mensah"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
-    >
-    <div>
-      <div class="text-lg font-semibold text-white">Darian Mensah</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
-  </div>
-
-  <div class="roster-row flex items-center gap-6 bg-slate-900 rounded-lg p-4" data-name="luke nickel">
-    <img
-      src="{{ '/static/2025/Luke_Nickel.jpg' | relative_url }}"
-      alt="Luke Nickel"
-      class="w-24 h-24 object-cover rounded-md border border-slate-800"
-    >
-    <div>
-      <div class="text-lg font-semibold text-white">Luke Nickel</div>
-      <div class="text-slate-400">Quarterback</div>
-    </div>
-  </div>
+  <!-- Add more players -->
 
 </div>
