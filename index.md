@@ -23,7 +23,7 @@ permalink: /
   <div class="space-y-4">
 
 <!-- Quarterbacks -->
-<a href="/quarterbacks/" 
+<a href="{{ '/quarterbacks/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Quarterbacks</span>
       <span class="text-green-400 text-xl">→</span>
