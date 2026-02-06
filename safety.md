@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Safety Roster
-permalink: /safetys
+permalink: /safety/
 ---
 
 <!-- Title -->

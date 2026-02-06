@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Offensive Line Roster
-permalink: /offensive-line
+permalink: /offensive-line/
 ---
 
 <!-- Title -->

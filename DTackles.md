@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Defensive Tackle Roster
-permalink: /defensive-tackles
+permalink: /defensive-tackles/
 ---
 
 <!-- Title -->

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Wide Receiver Roster
-permalink: /wide-receivers
+permalink: /wide-receivers/
 ---
 
 <!-- Title -->

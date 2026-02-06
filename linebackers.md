@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Linebacker Roster
-permalink: /linebackers
+permalink: /linebackers/
 ---
 
 <!-- Title -->

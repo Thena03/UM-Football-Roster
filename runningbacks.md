@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Running Back Roster
-permalink: /running-backs
+permalink: /running-backs/
 ---
 
 <!-- Title -->

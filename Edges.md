@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Edges Roster
-permalink: /defensive-ends
+permalink: /defensive-ends/
 ---
 
 <!-- Title -->

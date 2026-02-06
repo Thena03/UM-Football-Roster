@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Quarterback Roster
-permalink: /quarterbacks/
+permalink: /UM-Football-Roster/quarterbacks/
 ---
 
 <!-- Title -->

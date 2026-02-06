@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Specialist Roster
-permalink: /specialists
+permalink: /specialists/
 ---
 
 <!-- Title -->
