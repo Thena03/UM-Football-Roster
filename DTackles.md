@@ -20,7 +20,11 @@ permalink: /defensive-tackles/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-<div class="roster-container">
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
   <div class="roster-card text-center" data-name="tyson bacon">

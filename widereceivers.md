@@ -16,7 +16,7 @@ permalink: /wide-receivers/
   <input
     type="text"
     id="rosterSearch"
-    placeholder="Search quarterbacks by name..."
+    placeholder="Search widereceivers by name..."
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
