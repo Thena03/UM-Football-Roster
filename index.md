@@ -23,28 +23,28 @@ permalink: /
   <div class="space-y-4">
 
 <!-- Quarterbacks -->
-<a href="/roster/quarterbacks/" 
+<a href="/quarterbacks" 
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Quarterbacks</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
 <!-- Running Backs -->
-<a href="/roster/running-backs/" 
+<a href="/running-backs" 
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Running Backs</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
 <!-- Wide Receivers -->
- <a href="/roster/wide-receivers/" 
+ <a href="/wide-receivers" 
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Wide Receivers</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
  <!-- Defensive Line -->
-<a href="/roster/defensive-line/" 
+<a href="/defensive-line" 
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Defensive Line</span>
       <span class="text-green-400 text-xl">→</span>
