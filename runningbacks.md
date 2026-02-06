@@ -20,7 +20,7 @@ permalink: /running-backs/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-
+<br>
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -124,4 +124,4 @@ permalink: /running-backs/
         <div class="player-details">Running Back</div>
       </div>
     </div>
-<div 
+<div>
