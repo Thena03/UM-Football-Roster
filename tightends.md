@@ -148,4 +148,4 @@ permalink: /tight-ends/
       </div>
     </div>
 
-<div 
+<div>

@@ -195,4 +195,4 @@ permalink: /wide-receivers/
         <div class="player-details">Wide Receiver</div>
       </div>
     </div>
-<div 
+<div> 
