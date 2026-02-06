@@ -30,27 +30,75 @@ permalink: /
     </a>
 
 <!-- Running Backs -->
-<a href="/running-backs/" 
+<a href="{{ '/running-backs/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Running Backs</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
 <!-- Wide Receivers -->
- <a href="/wide-receivers/" 
+<a href="{{ '/wide-receivers/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Wide Receivers</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
+<!-- Tight Ends -->
+<a href="{{ '/tight-ends/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Wide Receivers</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
+
+
+  <!-- Offensive Line -->
+<a href="{{ '/offensive-line/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium"> Offensive Line</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
+
  <!-- Defensive Line -->
-<a href="/defensive-line/" 
+<a href="{{ '/defensive-tackles/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Defensive Line</span>
       <span class="text-green-400 text-xl">→</span>
     </a>
 
+  <!-- Edge Rushers -->
+<a href="{{ '/defensive-ends/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Defensive Ends</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
+
+<!-- Linebackers -->
+<a href="{{ '/linebackers/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Linebackers</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
+
+ <!-- Safety -->
+<a href="{{ '/safety/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Safeties</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
    
+   <!-- Cornerback -->
+<a href="{{ '/defensive-tackles/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Cornerbacks</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
+
+  <!-- Specialists -->
+<a href="{{ '/specialists/'  | relative_url }} "
+       class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
+      <span class="text-lg text-white font-medium">Specialists</span>
+      <span class="text-green-400 text-xl">→</span>
+    </a>
 
   </div>
 </div>
