@@ -11,9 +11,23 @@ permalink: /offensive-line/
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+</div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="sj alofaituli">
        <img
       src="{{ '/static/2025/SJ_Alofaituli.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -25,7 +39,7 @@ permalink: /offensive-line/
       </div>
     </div>
     
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="max buchanan">
        <img
       src="{{ '/static/2025/Max_Buchanan.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -37,7 +51,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jackson cantwell">
        <img
       src="{{ '/static/2026/Jackson_Cantwell.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -48,7 +62,7 @@ permalink: /offensive-line/
         <div class="player-details">Offensive Line</div>
       </div>
     </div>
-<div class="player-card">
+  <div class="roster-card text-center" data-name="demetrius campbell">
        <img
       src="{{ '/static/2025/Demetrius_Campbell.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -60,7 +74,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="johnathan cline">
        <img
       src="{{ '/static/2026/Johnathan_Cline.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -72,7 +86,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="ben congdon">
        <img
       src="{{ '/static/2026/Ben_Congdon.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -84,7 +98,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="joel ervin">
        <img
       src="{{ '/static/2026/Joel_Ervin.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -96,7 +110,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="matt mccoy">
        <img
       src="{{ '/static/2025/Matt_McCoy.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -109,7 +123,7 @@ permalink: /offensive-line/
     </div>
 
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jamal meriweather">
        <img
       src="{{ '/static/2026/Jamal_Meriweather.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -121,7 +135,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="juan minaya">
        <img
       src="{{ '/static/2025/Juan_Minaya.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -133,7 +147,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="samson okunlola">
        <img
       src="{{ '/static/2025/Samson_Okunlola.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -145,7 +159,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="canon pickett">
        <img
       src="{{ '/static/2026/Canon_Pickett.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -157,7 +171,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="ryan rod">
        <img
       src="{{ '/static/2025/Ryan_Rodriguez.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -169,7 +183,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="raphael scroggins">
        <img
       src="{{ '/static/2026/Raphael_Scroggins.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -181,7 +195,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="jj sparks">
        <img
       src="{{ '/static/2026/JJ_Sparks.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -193,7 +207,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="yerovi valdes">
        <img
       src="{{ '/static/2025/Yerovi_Valdes.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -205,7 +219,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jaden wilkerson">
        <img
       src="{{ '/static/2025/Jaden_Wilkerson.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -217,7 +231,7 @@ permalink: /offensive-line/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="rhys woodrow">
        <img
       src="{{ '/static/2026/Rhys_Woodrow.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

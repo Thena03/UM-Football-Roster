@@ -11,10 +11,19 @@ permalink: /defensive-tackles/
   </h1>
 </div>
 
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
 <div class="roster-container">
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="tyson bacon">
        <img
       src="{{ '/static/2026/Tyson_Bacon.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +35,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jarquez carter">
        <img
       src="{{ '/static/2026/Jarquez_Carter.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +47,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="isaac chukwurah">
        <img
       src="{{ '/static/2026/Isaac_Chuk.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +59,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="sam coufal">
        <img
       src="{{ '/static/2025/Samuel_Coufal.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +71,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="ahmad moten">
        <img
       src="{{ '/static/2025/Ahmad_Moten.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +83,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="logan nagle">
        <img
       src="{{ '/static/2026/Logan_Nagle.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +95,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="mykah newton">
        <img
       src="{{ '/static/2025/Mykah_Newton.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +107,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="frederic sainteus">
        <img
       src="{{ '/static/2026/Frederic_Sainteus.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +119,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="justin scott">
        <img
       src="{{ '/static/2025/Justin_Scott.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -122,7 +131,7 @@ permalink: /defensive-tackles/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="keshawn stancil">
        <img
       src="{{ '/static/2026/Keshawn_Stancil.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

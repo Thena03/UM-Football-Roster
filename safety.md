@@ -7,14 +7,28 @@ permalink: /safety/
 <!-- Title -->
 <div class="md:w-1/2 mx-auto mb-12">
   <h1 class="text-4xl md:text-5xl font-bold text-green-400 text-center mb-4">
-   <br> University of Miami 2026 Safetys
+   <br> University of Miami 2026 Safeties
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+</div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="dylan day">
        <img
       src="{{ '/static/2025/Dylan_Day.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +40,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jj dunnigan">
        <img
       src="{{ '/static/2026/JJ_Dunnigan.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +52,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="chris ewald">
        <img
       src="{{ '/static/2025/Chris_Ewald.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +64,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="bryce fitz">
        <img
       src="{{ '/static/2025/Bryce_Fitzgerald.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +76,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="conrad hussey">
        <img
       src="{{ '/static/2026/Conrad_Hussey.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +88,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="monroe ingraham">
        <img
       src="{{ '/static/2026/Monroe_Ingraham.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +100,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="ryan mack">
        <img
       src="{{ '/static/2025/Ryan_Mack.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +112,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="ZP">
        <img
       src="{{ '/static/2025/Zechariah_Poyser.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +124,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="cortez redding">
        <img
       src="{{ '/static/2026/Cortez_Redding.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -122,7 +136,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="bobbi pruitt">
        <img
       src="{{ '/static/Cameron_Pruitt.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -134,7 +148,7 @@ permalink: /safety/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="tyler rowe">
        <img
       src="{{ '/static/2025/Tyler_Rowe.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -146,7 +160,7 @@ permalink: /safety/
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="isaiah taylor">
        <img
       src="{{ '/static/2025/Isaiah_Taylor.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -158,7 +172,7 @@ permalink: /safety/
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="omar thornton">
        <img
       src="{{ '/static/2026/Omar_Thornton.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

@@ -11,10 +11,24 @@ permalink: /cornerbacks
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+</div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jaboree antoine">
        <img
       src="{{ '/static/2025/Jaboree_Antoine.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +40,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="damari brown">
        <img
       src="{{ '/static/2025/Damari_Brown.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +52,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="oj frederique">
        <img
       src="{{ '/static/2025/OJ_Frederique.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +64,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="brody jennings">
        <img
       src="{{ '/static/2026/Brody_Jennings.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +76,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="xavier lucas">
        <img
       src="{{ '/static/2025/Xavier Lucas.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +88,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="ethan o connor">
        <img
       src="{{ '/static/2025/Ethan_OConnor.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +100,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="camdin portis">
        <img
       src="{{ '/static/2026/Camdin_Portis.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +112,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="stone stroud">
        <img
       src="{{ '/static/2025/Stone_Stroud.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +124,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jaelen waters">
        <img
       src="{{ '/static/2026/Jaelen_Waters.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -122,7 +136,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="andres williams">
        <img
       src="{{ '/static/2025/Andres_Williams.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -134,7 +148,7 @@ permalink: /cornerbacks
       </div>
     </div>
 
-   <div class="player-card">
+  <div class="roster-card text-center" data-name="jontae wyman">
        <img
       src="{{ '/static/2026/Jontavius_Wyman.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

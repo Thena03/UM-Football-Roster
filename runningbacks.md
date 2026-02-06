@@ -11,14 +11,28 @@ permalink: /running-backs/
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="marty brown">
        <img
       src="{{ '/static/2025/Marty_Brown.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
-      alt="Marty"
+      alt="Marty Brown"
     >
       <div class="player-info">
         <div class="player-name">Charmar "Marty" Brown</div>
@@ -26,7 +40,8 @@ permalink: /running-backs/
       </div>
     </div>
 
-<div class="player-card">
+
+  <div class="roster-card text-center" data-name="mark fletcher">
        <img
       src="{{ '/static/2025/Mark_Fletcher.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +53,7 @@ permalink: /running-backs/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jordan lyle">
        <img
       src="{{ '/static/2025/Jordan_Lyle.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +65,7 @@ permalink: /running-backs/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="javian mallory">
        <img
       src="{{ '/static/2026/Javian_Mallory.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +77,7 @@ permalink: /running-backs/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="girard pringle">
        <img
       src="{{ '/static/2025/Girard_Pringle.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +89,7 @@ permalink: /running-backs/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="terrell walden">
        <img
       src="{{ '/static/2025/Terrell_Walden.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +101,7 @@ permalink: /running-backs/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="chris wheatley">
        <img
       src="{{ '/static/2025/Chris_Wheatley.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +113,7 @@ permalink: /running-backs/
       </div>
     </div>  
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jack whitehouse">
        <img
       src="{{ '/static/2025/Jack_Whitehouse.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

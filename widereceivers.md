@@ -14,7 +14,7 @@ permalink: /wide-receivers/
 <div class="roster-container">
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="brennan burton">
        <img
       src="{{ '/static/2025/Brennan_Burton.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +26,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="cooper barkate">
        <img
       src="{{ '/static/2026/Cooper_Barkate.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +38,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="tyran evans">
        <img
       src="{{ '/static/2026/Tyran_Evans.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +50,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="dre jacobs">
        <img
       src="{{ '/static/2026/Dre_Jacobs.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +62,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="kolby luna">
        <img
       src="{{ '/static/2025/Kolby_Luna.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +74,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="riply luna">
        <img
       src="{{ '/static/2025/Riply_Luna.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +86,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="josh moore">
        <img
       src="{{ '/static/2025/Josh_Moore.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +98,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="player-card">
+  <div class="roster-card text-center" data-name="milan parris">
        <img
       src="{{ '/static/2026/Milan_Parris.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +110,7 @@ permalink: /wide-receivers/
       </div>
     </div>  
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="vance spafford">
        <img
       src="{{ '/static/2026/Vance_Spafford.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -122,7 +122,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="nick thomas">
        <img
       src="{{ '/static/2025/Nick_Thomas.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -134,7 +134,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="player-card">
+  <div class="roster-card text-center" data-name="mali toney">
        <img
       src="{{ '/static/2025/Malachi_Toney.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -146,7 +146,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="daylyn upshaw">
        <img
       src="{{ '/static/2025/Daylyn_Upshaw.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -158,7 +158,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="cam vaughn">
        <img
       src="{{ '/static/2026/Cam_Vaughn.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -170,7 +170,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-   <div class="player-card">
+   <div class="roster-card text-center" data-name="soumorian wingo">
        <img
       src="{{ '/static/2026/Somourian_Wingo.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"

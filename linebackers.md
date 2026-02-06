@@ -11,10 +11,24 @@ permalink: /linebackers/
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+</div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="kamal bonner">
        <img
       src="{{ '/static/2025/Kamal_Bonner.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +40,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jordan campbell">
        <img
       src="{{ '/static/2026/Jordan_Campbell.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +52,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jj edwards">
        <img
       src="{{ '/static/2026/JJ_Edwards.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +64,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="braylon lamar">
        <img
       src="{{ '/static/2025/Braylon_Lamar.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +76,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="zeke marcelin">
        <img
       src="{{ '/static/2025/Zeke_Marcelin.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +88,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="casey rizzi">
        <img
       src="{{ '/static/2025/Casey_Rizzi.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +100,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="chase smith">
        <img
       src="{{ '/static/2025/Chase_Smith.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +112,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="mo toure">
        <img
       src="{{ '/static/2025/Mohammed_Toure.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +124,7 @@ permalink: /linebackers/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="kellen wiley">
        <img
       src="{{ '/static/2025/Kellen_Wiley.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
