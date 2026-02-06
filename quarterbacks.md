@@ -29,7 +29,7 @@ permalink: /quarterbacks/
   <!-- Player Card -->
   <div class="roster-card text-center" data-name="judd anderson">
     <img
-      src="{{ '/static/2025/Judd Anderson.jpg' | relative_url }}"
+      src="{{ '/static/2025/Judd_Anderson.jpg' | relative_url }}"
       alt="Judd Anderson"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
@@ -39,7 +39,7 @@ permalink: /quarterbacks/
 
   <div class="roster-card text-center" data-name="joseph borchers joe">
     <img
-      src="{{ '/static/2025/Joe_Borchers.jpg' | relative_url }}"
+      src="{{ '/static/2025/Joseph_Borchers.jpg' | relative_url }}"
       alt="Joseph Borchers"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
