@@ -11,10 +11,24 @@ permalink: /tight-ends/
   </h1>
 </div>
 
-<div class="roster-container">
+<!-- Search Bar -->
+<div class="max-w-3xl mx-auto mb-8">
+  <input
+    type="text"
+    id="rosterSearch"
+    placeholder="Search quarterbacks by name..."
+    class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
+    onkeyup="filterRoster()"
+  >
+</div>
+<!-- Roster Grid -->
+<div
+  class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
+  id="rosterGrid"
+>
 
  <!-- Player 1 -->
-<div class="player-card">
+  <div class="roster-card text-center" data-name="israel briggs">
        <img
       src="{{ '/static/2026/Israel_Briggs.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -26,7 +40,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="hunter carver">
        <img
       src="{{ '/static/2025/Hunter_Carver.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -38,7 +52,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jackson carver">
        <img
       src="{{ '/static/2025/Jackson_Carver.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -50,7 +64,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="luka gilbert">
        <img
       src="{{ '/static/2025/Luka_Gilbert.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -62,7 +76,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="elija lofton">
        <img
       src="{{ '/static/2025/Elija_Lofton.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -74,7 +88,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="cole mccoonnathy">
        <img
       src="{{ '/static/2025/Cole_McConnathy.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -86,7 +100,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-  <div class="player-card">
+   <div class="roster-card text-center" data-name="gavin mueller">
        <img
       src="{{ '/static/2026/Gavin_Mueller.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -98,7 +112,7 @@ permalink: /tight-ends/
       </div>
     </div>  
 
-<div class="player-card">
+  <div class="roster-card text-center" data-name="jack nickel">
        <img
       src="{{ '/static/2025/Jack_Nickel.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -110,7 +124,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-  <div class="player-card">
+  <div class="roster-card text-center" data-name="dylan reiman">
        <img
       src="{{ '/static/2025/Dylan_Reiman.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -122,7 +136,7 @@ permalink: /tight-ends/
       </div>
     </div>
 
-  <div class="player-card">
+  <div class="roster-card text-center" data-name="owen ruskavich">
        <img
       src="{{ '/static/2025/Owen_Ruskavich.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
