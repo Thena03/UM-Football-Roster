@@ -36,7 +36,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Brennan Burton</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Cooper Barkate</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Tyran Evans</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -72,7 +72,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Vandrevius Jacobs</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -84,7 +84,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Kolby Luna</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -96,7 +96,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Riply Luna</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -108,7 +108,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Josh Moore</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -120,7 +120,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Milan Parris</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>  
 
@@ -132,7 +132,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Vance Spafford</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -144,7 +144,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Nick Thomas</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -156,7 +156,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Malachi Toney</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -168,7 +168,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Daylyn Upshaw</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -180,7 +180,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Cam Vaughn</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 
@@ -192,7 +192,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Soumorian Wingo</div>
-        <div class="player-details">Wide Receiver</div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
 <div> 
