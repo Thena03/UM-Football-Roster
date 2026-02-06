@@ -29,7 +29,7 @@ permalink: /offensive-line/
 
   <div class="roster-card text-center" data-name="sj alofaituli">
        <img
-      src="{{ '/static/2025/SJ_Alofaituli.jpg' | relative_url }}"
+      src="{{ '/static/2025/Seuseu_Alofaituli.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Seuseu Alofaituli"
     >
@@ -185,7 +185,7 @@ permalink: /offensive-line/
 
    <div class="roster-card text-center" data-name="raphael scroggins">
        <img
-      src="{{ '/static/2026/Raphael_Scroggins.jpg' | relative_url }}"
+      src="{{ '/static/2025/Raphael_Scroggins.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Raphael Scroggins"
     >
@@ -221,7 +221,7 @@ permalink: /offensive-line/
 
   <div class="roster-card text-center" data-name="jaden wilkerson">
        <img
-      src="{{ '/static/2025/Jaden_Wilkerson.jpg' | relative_url }}"
+      src="{{ '/static/2025/Jaden_WIlkerson.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Jaden Wilkerson"
     >
