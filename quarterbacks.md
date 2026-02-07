@@ -34,7 +34,7 @@ permalink: /quarterbacks/
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Judd Anderson</div>
-    <div class="text-slate-400 text-sm">Quarterback</div>
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
   <div class="roster-card text-center" data-name="joseph borchers joe">
@@ -44,7 +44,7 @@ permalink: /quarterbacks/
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers</div>
-    <div class="text-slate-400 text-sm">Quarterback</div>
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
   <div class="roster-card text-center" data-name="dereon coleman">
@@ -54,7 +54,7 @@ permalink: /quarterbacks/
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Dereon Coleman</div>
-    <div class="text-slate-400 text-sm">Quarterback</div>
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
   <div class="roster-card text-center" data-name="vinny gonzalez">
@@ -64,7 +64,7 @@ permalink: /quarterbacks/
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
-    <div class="text-slate-400 text-sm">Quarterback</div>
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
  <div class="roster-card text-center" data-name="darian mensah">
@@ -74,7 +74,7 @@ permalink: /quarterbacks/
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Darian Mensah</div>
-    <div class="text-slate-400 text-sm">Quarterback</div>
+    <!--  <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
 </div>
