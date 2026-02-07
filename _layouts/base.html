@@ -13,8 +13,14 @@
     tailwind.config = {
       theme: {
         extend: {
+          colors: {
+            "canes-orange": "#f47321",
+            "canes-green": "#005030",
+            "canes-gray": "#1a1a1a"
+          },
           fontFamily: {
-            mono: ["ui-monospace", "SFMono-Regular", "Menlo"]
+            mono: ["ui-monospace", "SFMono-Regular", "Menlo"],
+            sans: ["ui-sans-serif", "system-ui", "Helvetica", "Arial"]
           },
           animation: {
             blink: "blink 1.2s step-end infinite"
@@ -29,45 +35,40 @@
     }
   </script>
 
-  <!-- Favicon
-  <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
-</head> -->
+</head>
 
-<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-mono">
+<body class="bg-canes-gray text-white min-h-screen flex flex-col font-sans">
 
   <!-- ===== NAVBAR ===== -->
-  <nav class="bg-slate-900 border-b border-slate-800 fixed w-full z-40">
+  <nav class="bg-slate-900 border-b border-canes-green fixed w-full z-40">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between h-16 items-center">
 
-    <!-- Logo -->
-    <a href="{{ '/' | relative_url }}" class="inline-flex items-center gap-2 text-green-400">
-    <img
-      src="{{ '/static/ulogo.png' | relative_url }}"
-      class="w-8 rounded-lg"
-      alt="UMiami logo"
-    />
-    <!--<span class="font-semibold">
-      daisi@resources<span class="animate-blink">▮</span>
-    </span>-->
-  </a>
-  
+        <!-- Logo -->
+        <a href="{{ '/' | relative_url }}" class="inline-flex items-center gap-2 text-canes-green">
+          <img
+            src="{{ '/static/ulogo.png' | relative_url }}"
+            class="w-10 rounded-lg"
+            alt="UMiami logo"
+          />
+          <span class="font-bold text-lg text-canes-orange">Miami Hurricanes</span>
+        </a>
 
         <!-- Desktop Menu -->
-        <div class="hidden md:flex space-x-8 text-xs">
+        <div class="hidden md:flex space-x-8 text-sm">
           <a href="{{ '/' | relative_url }}"
-             class="text-slate-100 hover:text-green-400 transition">
-            home
+             class="text-white hover:text-canes-orange transition font-semibold">
+            Home
           </a>
           <a href="{{ '/contact' | relative_url }}"
-             class="text-slate-100 hover:text-green-400 transition">
-            contact
+             class="text-white hover:text-canes-orange transition font-semibold">
+            Contact
           </a>
         </div>
 
         <!-- Mobile Menu Button -->
         <div class="md:hidden">
-          <button id="mobile-menu-button" class="text-slate-400">
+          <button id="mobile-menu-button" class="text-slate-400 hover:text-white transition">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="M4 6h16M4 12h16M4 18h16" />
@@ -78,23 +79,21 @@
       </div>
     </div>
 
-    <!-- Mobile Menu 
-    <div id="mobile-menu" class="md:hidden hidden px-4 pt-3 pb-4 space-y-2 bg-slate-900 border-t border-slate-800 text-xs">
-      <a href="{{ '/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">home</a>
-      <a href="{{ '/contact/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">contact</a>
-    </div> -->
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="md:hidden hidden px-4 pt-3 pb-4 space-y-2 bg-slate-900 border-t border-canes-green text-sm">
+      <a href="{{ '/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">Home</a>
+      <a href="{{ '/contact/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">Contact</a>
+    </div>
   </nav>
 
   <!-- ===== MAIN CONTENT ===== -->
   <main class="flex-1 mt-20 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-
     {{ content }}
-
   </main>
 
   <!-- ===== FOOTER ===== -->
-  <footer class="border-t border-slate-800 text-slate-500 text-center py-6 text-xs">
- &copy; {{ site.time | date: "%Y" }} Athena Amancio-Alsobrook · University of Miami Football
+  <footer class="border-t border-canes-green text-slate-400 text-center py-6 text-sm">
+    &copy; {{ site.time | date: "%Y" }} Athena Amancio-Alsobrook · University of Miami Football
   </footer>
 
   <!-- Mobile Menu Script -->
