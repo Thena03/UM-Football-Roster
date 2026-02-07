@@ -110,7 +110,7 @@ permalink: /running-backs/
    <div class="roster-card text-center" data-name="chris wheatley">
        <img
       src="{{ '/static/2025/Chris_Wheatley.jpg' | relative_url }}"
-      loading="lazy"
+    loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Chris Wheatley-Humphrey"
     >
