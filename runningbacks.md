@@ -31,7 +31,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="marty brown">
        <img
       src="{{ '/static/2025/Marty_Brown.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Marty Brown"
     >
       <div class="player-info">
@@ -44,7 +45,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="mark fletcher">
        <img
       src="{{ '/static/2025/Mark_Fletcher.png' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Mark Fletcher Jr."
     >
       <div class="player-info">
@@ -56,7 +58,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="jordan lyle">
        <img
       src="{{ '/static/2025/Jordan_Lyle.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Jordan Lyle"
     >
       <div class="player-info">
@@ -68,7 +71,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="javian mallory">
        <img
       src="{{ '/static/2026/Javian_Mallory.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Javian Mallory"
     >
       <div class="player-info">
@@ -80,7 +84,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="girard pringle">
        <img
       src="{{ '/static/2025/Girard_Pringle.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Girard Pringle"
     >
       <div class="player-info">
@@ -92,7 +97,8 @@ permalink: /running-backs/
    <div class="roster-card text-center" data-name="terrell walden">
        <img
       src="{{ '/static/2025/Terrell_Walden.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Terrell Walden II"
     >
       <div class="player-info">
@@ -104,7 +110,8 @@ permalink: /running-backs/
    <div class="roster-card text-center" data-name="chris wheatley">
        <img
       src="{{ '/static/2025/Chris_Wheatley.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Chris Wheatley-Humphrey"
     >
       <div class="player-info">
@@ -116,7 +123,8 @@ permalink: /running-backs/
   <div class="roster-card text-center" data-name="jack whitehouse">
        <img
       src="{{ '/static/2025/Jack_Whitehouse.jpg' | relative_url }}"
-      class="rounded-lg mb-4 border border-slate-800"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Jack Whitehouse"
     >
       <div class="player-info">
