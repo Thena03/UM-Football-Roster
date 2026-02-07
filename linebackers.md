@@ -137,3 +137,13 @@ permalink: /linebackers/
     </div>
 
 </div>
+
+<!-- Back Button -->
+<div class="max-w-6xl mx-auto mt-16 text-center">
+  <a
+    href="{{ site.baseurl }}/"
+    class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
+  >
+    ← Back to Home
+  </a>
+</div>
