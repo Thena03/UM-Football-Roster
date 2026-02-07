@@ -138,7 +138,7 @@ permalink: /safety/
 
   <div class="roster-card text-center" data-name="bobbi pruitt">
        <img
-      src="{{ '/static/Cameron_Pruitt.jpg' | relative_url }}"
+      src="{{ '/static/2025/Cameron_Pruitt.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Cameron Pruitt."
     >
