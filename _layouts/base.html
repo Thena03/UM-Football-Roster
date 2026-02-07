@@ -5,160 +5,102 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: "University of Miami Football" }}</title>
 
-  <style>
-    /* ===== COLORS ===== */
-    :root {
-      --canes-orange: #f47321;
-      --canes-green: #005030;
-      --canes-gray: #1a1a1a;
-      --white: #ffffff;
-      --light-gray: #c0c0c0;
-    }
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
 
-    /* ===== GLOBAL ===== */
-    body {
-      margin: 0;
-      font-family: "Helvetica", "Arial", sans-serif;
-      background: linear-gradient(to bottom, #1a1a1a, #2a2a2a, #1a1a1a);
-      color: var(--white);
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-
-    a {
-      color: var(--white);
-      text-decoration: none;
-      transition: color 0.2s ease;
-    }
-
-    a:hover {
-      color: var(--canes-orange);
-    }
-
-    /* ===== NAVBAR ===== */
-    nav {
-      background-color: #1a1a1a;
-      border-bottom: 2px solid var(--canes-green);
-      width: 100%;
-      position: fixed;
-      top: 0;
-      z-index: 1000;
-    }
-
-    nav .nav-container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 16px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      height: 64px;
-    }
-
-    nav .logo {
-      font-weight: bold;
-      font-size: 1.2rem;
-      color: var(--canes-orange);
-    }
-
-    nav .menu {
-      display: flex;
-      gap: 24px;
-      font-weight: 600;
-      font-size: 0.9rem;
-    }
-
-    nav .menu a:hover {
-      color: var(--canes-orange);
-    }
-
-    /* ===== MOBILE MENU ===== */
-    .mobile-menu-button {
-      display: none;
-      background: none;
-      border: none;
-      color: var(--light-gray);
-      font-size: 1.5rem;
-    }
-
-    .mobile-menu {
-      display: none;
-      flex-direction: column;
-      padding: 12px 16px;
-      background-color: #1a1a1a;
-      border-top: 2px solid var(--canes-green);
-    }
-
-    .mobile-menu a {
-      padding: 8px 0;
-      border-radius: 4px;
-    }
-
-    .mobile-menu a:hover {
-      background-color: #2a2a2a;
-    }
-
-    /* ===== MAIN ===== */
-    main {
-      flex: 1;
-      max-width: 1200px;
-      margin: 100px auto 0; /* space for fixed navbar */
-      padding: 0 16px 64px 16px;
-    }
-
-    /* ===== FOOTER ===== */
-    footer {
-      border-top: 2px solid var(--canes-green);
-      text-align: center;
-      padding: 24px 16px;
-      font-size: 0.85rem;
-      color: #b0b0b0;
-    }
-
-    /* ===== RESPONSIVE ===== */
-    @media (max-width: 768px) {
-      nav .menu {
-        display: none;
-      }
-
-      .mobile-menu-button {
-        display: block;
+  <!-- Tailwind Config -->
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            "canes-orange": "#f47321",
+            "canes-green": "#005030",
+            "canes-gray": "#1a1a1a"
+          },
+          fontFamily: {
+            mono: ["ui-monospace", "SFMono-Regular", "Menlo"],
+            sans: ["ui-sans-serif", "system-ui", "Helvetica", "Arial"]
+          },
+          animation: {
+            blink: "blink 1.2s step-end infinite"
+          },
+          keyframes: {
+            blink: {
+              "50%": { opacity: "0" }
+            }
+          }
+        }
       }
     }
-  </style>
+  </script>
+
 </head>
 
-<body>
+<body class="bg-canes-gray text-white min-h-screen flex flex-col font-sans">
 
   <!-- ===== NAVBAR ===== -->
-  <nav>
-    <div class="nav-container">
-      <a href="{{ '/' | relative_url }}" class="logo">Miami Hurricanes</a>
+  <nav class="bg-slate-900 border-b border-canes-green fixed w-full z-40">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-16 items-center">
 
+        <!-- Logo-->
+        <a href="{{ '/' | relative_url }}" class="inline-flex items-center gap-2 text-canes-green">
+          <!-- <img
+            src="{{ '/static/ulogo.png' | relative_url }}"
+            class="w-10 rounded-lg"
+            alt="UMiami logo"
+          /> -->
+          <span class="font-bold text-lg text-canes-orange">Miami Hurricanes</span>
+        </a>
+
+        <!-- Desktop Menu 
+        <div class="hidden md:flex space-x-8 text-sm">
+          <a href="{{ '/' | relative_url }}"
+             class="text-white hover:text-canes-orange transition font-semibold">
+            Home
+          </a>
+          a href="{{ '/contact' | relative_url }}"
+             class="text-white hover:text-canes-orange transition font-semibold">
+            Contact
+          </a>
+        </div>-->
+
+        <!-- Mobile Menu Button 
+        <div class="md:hidden">
+          <button id="mobile-menu-button" class="text-slate-400 hover:text-white transition">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+    Mobile Menu
+    <div id="mobile-menu" class="md:hidden hidden px-4 pt-3 pb-4 space-y-2 bg-slate-900 border-t border-canes-green text-sm">
+      <a href="{{ '/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">Home</a>
+     a href="{{ '/contact/' | relative_url }}" class="block px-3 py-2 rounded hover:bg-slate-800">Contact</a>
+    </div> -->
   </nav>
 
   <!-- ===== MAIN CONTENT ===== -->
-  <main>
+  <main class="flex-1 mt-20 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
     {{ content }}
   </main>
 
   <!-- ===== FOOTER ===== -->
-  <footer>
+  <footer class="border-t border-canes-green text-slate-400 text-center py-6 text-sm">
     &copy; {{ site.time | date: "%Y" }} Athena Amancio-Alsobrook · University of Miami Football
   </footer>
 
-  <!-- ===== MOBILE MENU SCRIPT ===== -->
+  <!-- Mobile Menu Script -->
   <script>
     const btn = document.getElementById('mobile-menu-button');
     const menu = document.getElementById('mobile-menu');
-    btn.addEventListener('click', () => {
-      if(menu.style.display === "flex"){
-        menu.style.display = "none";
-      } else {
-        menu.style.display = "flex";
-      }
-    });
+    btn.addEventListener('click', () => menu.classList.toggle('hidden'));
   </script>
 
 </body>
