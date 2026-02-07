@@ -36,7 +36,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Dylan Day</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">James "JJ" Dunnigan</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Chris Ewald Jr.</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -156,7 +156,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Tyler Rowe</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -168,7 +168,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Isaiah Taylor</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -180,7 +180,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Omar Thornton</div>
-        <div class="player-details">Safety</div>
+          <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
 </div>
