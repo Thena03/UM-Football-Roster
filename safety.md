@@ -85,7 +85,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Conrad Hussey</div>
-        <div class="player-details">Offensive Line</div>
+       <!--<div class="player-details">Safety</div>-->
       </div>
     </div>
 
@@ -97,7 +97,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Monroe Ingraham</div>
-        <div class="player-details">Safety</div>
+       <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
 
@@ -109,7 +109,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Ryan Mack</div>
-        <div class="player-details">Safety</div>
+       <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
 
@@ -121,7 +121,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Zechariah Poyser</div>
-        <div class="player-details">Safety</div>
+       <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
 
@@ -133,7 +133,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Cortez Redding</div>
-        <div class="player-details">Safety</div>
+       <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
 
@@ -145,7 +145,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Cameron Pruitt</div>
-        <div class="player-details">Safety</div>
+       <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
 
