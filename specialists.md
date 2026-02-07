@@ -98,8 +98,7 @@ permalink: /specialists/
         <div class="player-name">Jake Weinberg</div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
-    </div>
-
+  </div>
 </div>
 
 <!-- Back Button -->
