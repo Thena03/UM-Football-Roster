@@ -66,7 +66,8 @@ permalink: /quarterbacks/
     <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
     <div class="text-slate-400 text-sm">Quarterback</div>
   </div>
-    <div class="roster-card text-center" data-name="darian mensah">
+
+ <div class="roster-card text-center" data-name="darian mensah">
     <img
       src="{{ '/static/2026/Darian_Mensah.jpg' | relative_url }}"
       alt="Darian Mensah"
