@@ -73,7 +73,7 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Bryce Fitzgerald</div>
-        <div class="player-details">Safety</div>
+       <!--<div class="player-details">Safety</div>-->
       </div>
     </div>
 
