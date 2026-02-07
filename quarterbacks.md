@@ -31,6 +31,7 @@ permalink: /quarterbacks/
     <img
       src="{{ '/static/2025/Judd_Anderson.jpg' | relative_url }}"
       alt="Judd Anderson"
+      loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Judd Anderson</div>
@@ -41,6 +42,7 @@ permalink: /quarterbacks/
     <img
       src="{{ '/static/2025/Joseph_Borchers.jpg' | relative_url }}"
       alt="Joseph Borchers"
+      loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers</div>
@@ -51,6 +53,7 @@ permalink: /quarterbacks/
     <img
       src="{{ '/static/2026/Dereon_Coleman.jpg' | relative_url }}"
       alt="Dereon Coleman"
+      loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Dereon Coleman</div>
@@ -61,7 +64,8 @@ permalink: /quarterbacks/
     <img
       src="{{ '/static/2025/Vinny_Gonzalez.jpg' | relative_url }}"
       alt="Vinny Gonzalez"
-      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
@@ -71,10 +75,11 @@ permalink: /quarterbacks/
     <img
       src="{{ '/static/2026/Darian_Mensah.jpg' | relative_url }}"
       alt="Darian Mensah"
-      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
+      loading="lazy"
+     class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
     <div class="text-lg font-semibold text-white">Darian Mensah</div>
-    <!--  <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
 </div>
