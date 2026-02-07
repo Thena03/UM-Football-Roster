@@ -196,7 +196,7 @@ permalink: /wide-receivers/
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
-<div> 
+</div> 
 
 <!-- Back Button -->
 <div class="max-w-6xl mx-auto mt-16 text-center">
