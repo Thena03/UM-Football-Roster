@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Home
+title: University of Miami 2026 Football Roster Home
 permalink: /
 ---
 
