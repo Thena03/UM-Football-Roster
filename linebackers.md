@@ -11,7 +11,7 @@ permalink: /linebackers/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar 
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /linebackers/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-</div>
+</div> -->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -36,7 +36,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Kamal Bonner</div>
-        <div class="player-details">Linebacker</div>
+                <!--  <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Jordan Campbell</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Justin "JJ" Edwards</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -72,7 +72,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Braylon Lamar</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -84,7 +84,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Ezekiel Marcelin Jr.</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -96,7 +96,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Casey Rizzi</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -108,7 +108,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Chase Smith</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -120,7 +120,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Mohammed "Mo" Toure</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
@@ -132,7 +132,7 @@ permalink: /linebackers/
     >
       <div class="player-info">
         <div class="player-name">Kellen Wiley Jr.</div>
-        <div class="player-details">Linebacker</div>
+                <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
 
