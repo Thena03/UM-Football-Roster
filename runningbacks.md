@@ -124,7 +124,8 @@ permalink: /running-backs/
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
-<div>
+</div>
+
 
 <!-- Back Button -->
 <div class="max-w-6xl mx-auto mt-16 text-center">
