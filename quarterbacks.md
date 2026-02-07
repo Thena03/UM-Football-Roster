@@ -68,7 +68,7 @@ permalink: /quarterbacks/
   </div>
     <div class="roster-card text-center" data-name="darian mensah">
     <img
-      src="{{ '/static/2025/Darian_Mensah.jpg' | relative_url }}"
+      src="{{ '/static/2026/Darian_Mensah.jpg' | relative_url }}"
       alt="Darian Mensah"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
