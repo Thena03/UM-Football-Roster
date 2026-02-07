@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 2026 Cornerback Roster
-permalink: /cornerbacks
+permalink: /cornerbacks/
 ---
 
 <!-- Title -->
