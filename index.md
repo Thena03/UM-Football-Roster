@@ -9,9 +9,9 @@ permalink: /
   <h1 class="text-4xl md:text-5xl font-bold text-green-400 text-center mb-4">
    <br> University of Miami 2026 Football Roster
   </h1>
- <h2 class="text-sm md:text-base font-medium text-center text-slate-400">
+ <!-- <h2 class="text-sm md:text-base font-medium text-center text-slate-400">
     University of Miami Football 2025-2026 Football Roster
-  </h2>
+  </h2> -->
 </div>
 
 <!-- Position Groups -->
