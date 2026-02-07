@@ -7,7 +7,7 @@ permalink: /defensive-tackles/
 <!-- Title -->
 <div class="md:w-1/2 mx-auto mb-12">
   <h1 class="text-4xl md:text-5xl font-bold text-green-400 text-center mb-4">
-   <br> University of Miami 2026 Defensive Tackles
+   <br> University of Miami 2026 Defensive Line
   </h1>
 </div>
 
