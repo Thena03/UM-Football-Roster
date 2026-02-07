@@ -11,7 +11,7 @@ permalink: /defensive-tackles/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar 
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -19,7 +19,7 @@ permalink: /defensive-tackles/
     placeholder="Search quarterbacks by name..."
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
-  >
+  >-->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -35,7 +35,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Tyson Bacon</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -47,7 +47,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Jarquez Carter</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -59,7 +59,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Isaac Chukwurah</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -71,7 +71,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Samuel Coufal</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -83,7 +83,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Ahmad Moten</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -95,7 +95,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Logan Nagle</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -107,7 +107,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Mykah Newton</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -119,7 +119,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Frederic Sainteus</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -131,7 +131,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Justin Scott</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 
@@ -143,7 +143,7 @@ permalink: /defensive-tackles/
     >
       <div class="player-info">
         <div class="player-name">Keshawn Stancil</div>
-        <div class="player-details">Defensive Tackle</div>
+      <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
 </div>

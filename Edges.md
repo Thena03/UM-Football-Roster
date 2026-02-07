@@ -11,7 +11,7 @@ permalink: /defensive-ends/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /defensive-ends/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-</div>
+</div> -->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -36,7 +36,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Armondo Blount</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Asharri Charles</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Keona Davis</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -72,7 +72,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">DeAnthony Lafayette</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -85,7 +85,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Marquise Lightfoot</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -97,7 +97,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Hayden Lowe</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -109,7 +109,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Booker Pickett</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -121,7 +121,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Herbert Scroggins III</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 
@@ -133,7 +133,7 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Damon Wilson</div>
-        <div class="player-details">Defensive End</div>
+      <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
 </div>

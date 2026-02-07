@@ -87,7 +87,7 @@ permalink: /
     </a>
    
    <!-- Cornerback -->
-<a href="{{ '/defensive-tackles/'  | relative_url }} "
+<a href="{{ '/cornerbacks/'  | relative_url }} "
        class="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition rounded-lg px-6 py-4">
       <span class="text-lg text-white font-medium">Cornerbacks</span>
       <span class="text-green-400 text-xl">→</span>

@@ -11,7 +11,7 @@ permalink: /running-backs/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar 
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /running-backs/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-<br>
+<br>-->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -36,20 +36,20 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Charmar "Marty" Brown</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
 
   <div class="roster-card text-center" data-name="mark fletcher">
        <img
-      src="{{ '/static/2025/Mark_Fletcher.jpg' | relative_url }}"
+      src="{{ '/static/2025/Mark_Fletcher.png' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Mark Fletcher Jr."
     >
       <div class="player-info">
         <div class="player-name">Mark Fletcher Jr.</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
@@ -61,7 +61,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Jordan Lyle</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
@@ -73,7 +73,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Javian Mallory</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
@@ -85,7 +85,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Girard Pringle</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
@@ -97,7 +97,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Terrell Walden II</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 
@@ -109,7 +109,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Chris Wheatley-Humphrey</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>  
 
@@ -121,7 +121,7 @@ permalink: /running-backs/
     >
       <div class="player-info">
         <div class="player-name">Jack Whitehouse</div>
-        <div class="player-details">Running Back</div>
+                <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
 <div>

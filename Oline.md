@@ -11,7 +11,7 @@ permalink: /offensive-line/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /offensive-line/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-</div>
+</div> -->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -35,7 +35,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Seuseu "SJ" Alofaituli</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
     
@@ -47,7 +47,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Max Buchanan</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -59,7 +59,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Jackson Cantwell</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
   <div class="roster-card text-center" data-name="demetrius campbell">
@@ -70,7 +70,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Demetrius Campbell</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -82,7 +82,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Johnathan Cline</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -94,7 +94,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Ben Congdon</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -106,7 +106,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Joel Ervin</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -118,7 +118,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Matthew McCoy</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -131,7 +131,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Jamal Meriweather</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -143,7 +143,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Juan Minaya</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -155,7 +155,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Samson Okunlola</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -167,7 +167,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Canon Pickett</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -179,7 +179,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Ryan Rodriguez</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -191,7 +191,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Raphael Scroggins</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -203,7 +203,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">JJ Sparks</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -215,7 +215,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Yerovi Valdes</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -227,7 +227,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Jaden Wilkerson</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 
@@ -239,7 +239,7 @@ permalink: /offensive-line/
     >
       <div class="player-info">
         <div class="player-name">Rhys Woodrow</div>
-        <div class="player-details">Offensive Line</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
 

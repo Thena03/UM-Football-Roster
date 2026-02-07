@@ -11,7 +11,7 @@ permalink: /specialists/
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar 
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /specialists/
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-</div>
+</div>-->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -36,7 +36,7 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">Adam Booker</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">Dylan Joyce</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">Jack Olsen</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
@@ -72,7 +72,7 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">William Rocha</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
@@ -84,7 +84,7 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">Tucker Tevepaugh</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
@@ -96,8 +96,8 @@ permalink: /specialists/
     >
       <div class="player-info">
         <div class="player-name">Jake Weinberg</div>
-        <div class="player-details">Specialist</div>
+       <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
 
-<div 
+<div>

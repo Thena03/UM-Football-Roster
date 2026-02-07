@@ -11,7 +11,7 @@ permalink: /cornerbacks
   </h1>
 </div>
 
-<!-- Search Bar -->
+<!-- Search Bar 
 <div class="max-w-3xl mx-auto mb-8">
   <input
     type="text"
@@ -20,7 +20,7 @@ permalink: /cornerbacks
     class="w-full px-4 py-3 rounded-lg bg-slate-800 text-white placeholder-slate-400 border border-slate-700 focus:outline-none focus:ring-2 focus:ring-green-400"
     onkeyup="filterRoster()"
   >
-</div>
+</div>-->
 <!-- Roster Grid -->
 <div
   class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8"
@@ -36,7 +36,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Jaboree Antoine</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -48,7 +48,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Damari Brown</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -60,7 +60,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">OJ Frederique</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -72,7 +72,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Brody Jennings</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -84,7 +84,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Xavier Lucas</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -96,7 +96,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name"> Ethan O'Connor</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -108,7 +108,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Camdin Portis</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -120,7 +120,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Stone Stroud</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -132,7 +132,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Jaelen Waters</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -144,7 +144,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Andres Williams</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
@@ -156,7 +156,7 @@ permalink: /cornerbacks
     >
       <div class="player-info">
         <div class="player-name">Jontavius Wyman</div>
-        <div class="player-details">Cornerback</div>
+      <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
 
