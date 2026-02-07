@@ -78,7 +78,7 @@ permalink: /cornerbacks/
 
   <div class="roster-card text-center" data-name="xavier lucas">
        <img
-      src="{{ '/static/2025/Xavier Lucas.jpg' | relative_url }}"
+      src="{{ '/static/2025/Xavier_Lucas.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Xavier Lucas"
     >
@@ -159,7 +159,7 @@ permalink: /cornerbacks/
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
-
+</div>
 
 <!-- Back Button -->
 <div class="max-w-6xl mx-auto mt-16 text-center">
@@ -169,5 +169,4 @@ permalink: /cornerbacks/
   >
     ← Back to Home
   </a>
-</div>
 </div>
