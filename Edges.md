@@ -132,7 +132,7 @@ permalink: /defensive-ends/
       alt="Damon Wilson"
     >
       <div class="player-info">
-        <div class="player-name">Damon Wilson</div>
+        <div class="player-name">Damon Wilson II</div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
