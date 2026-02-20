@@ -88,6 +88,18 @@ permalink: /linebackers/
       </div>
     </div>
 
+   <div class="roster-card text-center" data-name="bobbi pruitt">
+       <img
+      src="{{ '/static/2025/Cameron_Pruitt.jpg' | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Cameron Pruitt."
+    >
+      <div class="player-info">
+        <div class="player-name">Cameron Pruitt</div>
+       <!-- <div class="player-details">Safety</div> -->
+      </div>
+    </div>
+
   <div class="roster-card text-center" data-name="casey rizzi">
        <img
       src="{{ '/static/2025/Casey_Rizzi.jpg' | relative_url }}"
