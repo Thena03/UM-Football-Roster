@@ -42,7 +42,7 @@ permalink: /cornerbacks/
 
   <div class="roster-card text-center" data-name="takai azziz">
        <img
-      src="{{ | relative_url }}"
+      src="{{ '/static/misc/U_Logo.png'| relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Takai Azziz"
     >
