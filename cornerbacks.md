@@ -40,6 +40,18 @@ permalink: /cornerbacks/
       </div>
     </div>
 
+  <div class="roster-card text-center" data-name="takai azziz">
+       <img
+      src="{{ | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Takai Azziz"
+    >
+      <div class="player-info">
+        <div class="player-name">Takai Azziz</div>
+      <!--  <div class="player-details">Cornerback</div>-->
+      </div>
+    </div>
+
   <div class="roster-card text-center" data-name="damari brown">
        <img
       src="{{ '/static/2025/Damari_Brown.jpg' | relative_url }}"

@@ -40,6 +40,18 @@ permalink: /linebackers/
       </div>
     </div>
 
+  <div class="roster-card text-center" data-name="karsten busch">
+       <img
+      src="{{  | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Karsten Busch"
+    >
+      <div class="player-info">
+        <div class="player-name">Karsten Busch</div>
+                <!--  <div class="player-details">Linebacker</div>-->
+      </div>
+    </div>
+
   <div class="roster-card text-center" data-name="jordan campbell">
        <img
       src="{{ '/static/2026/Jordan_Campbell.jpg' | relative_url }}"

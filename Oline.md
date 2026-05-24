@@ -102,10 +102,22 @@ permalink: /offensive-line/
        <img
       src="{{ '/static/2026/Joel_Ervin.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
-      alt="Canon Pickett"
+      alt="Joel Ervin"
     >
       <div class="player-info">
         <div class="player-name">Joel Ervin</div>
+       <!--  <div class="player-details">Offensive Line</div>-->
+      </div>
+    </div>
+
+  <div class="roster-card text-center" data-name="jacob hawks">
+       <img
+      src="{{  | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Jacob Hawks"
+    >
+      <div class="player-info">
+        <div class="player-name">Jacob Hawks</div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
