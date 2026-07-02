@@ -129,7 +129,7 @@ permalink: /offensive-line/
       alt="Matthew McCoy"
     >
       <div class="player-info">
-        <div class="player-name">Matthew McCoy</div>
+        <div class="player-name">Matthew McCoy <span class="font-bold text-lg text-canes-orange">78</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
