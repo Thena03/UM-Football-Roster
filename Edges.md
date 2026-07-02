@@ -96,7 +96,7 @@ permalink: /defensive-ends/
       alt="Hayden Lowe"
     >
       <div class="player-info">
-        <div class="player-name">Hayden Lowe<span class="font-bold text-lg text-canes-orange">14</span></div>
+        <div class="player-name">Hayden Lowe <span class="font-bold text-lg text-canes-orange">14</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>

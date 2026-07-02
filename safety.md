@@ -36,7 +36,7 @@ permalink: /safety/
       alt="Dylan Day"
     >
       <div class="player-info">
-        <div class="player-name">Dylan Day <span color="font-bold text-lg text-canes-orange">23</span></div>
+        <div class="player-name">Dylan Day <span class="font-bold text-lg text-canes-orange">23</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -48,7 +48,7 @@ permalink: /safety/
       alt="James Dunnigan"
     >
       <div class="player-info">
-        <div class="player-name">James "JJ" Dunnigan <span color="font-bold text-lg text-canes-orange">25</span></div>
+        <div class="player-name">James "JJ" Dunnigan <span class="font-bold text-lg text-canes-orange">25</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -60,7 +60,7 @@ permalink: /safety/
       alt="Chris Ewald Jr."
     >
       <div class="player-info">
-        <div class="player-name">Chris Ewald Jr.<span class="font-bold text-lg text-canes-orange">20</span></div>
+        <div class="player-name">Chris Ewald Jr. <span class="font-bold text-lg text-canes-orange">20</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -144,7 +144,7 @@ permalink: /safety/
       alt="Tyler Rowe"
     >
       <div class="player-info">
-        <div class="player-name">Tyler Rowe <span class="font-bold text-lg text-canes-orange">43<</span></div>
+        <div class="player-name">Tyler Rowe <span class="font-bold text-lg text-canes-orange">43</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>

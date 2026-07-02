@@ -71,7 +71,7 @@ permalink: /linebackers/
       alt="JJ Edwards"
     >
       <div class="player-info">
-        <div class="player-name">Justin "JJ" Edwards <span class="font-bold text-lg text-canes-orange"></span></div>
+        <div class="player-name">Justin "JJ" Edwards <span class="font-bold text-lg text-canes-orange">32</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -95,7 +95,7 @@ permalink: /linebackers/
       alt="Ezeckiel Marcelin Jr."
     >
       <div class="player-info">
-        <div class="player-name">Ezekiel Marcelin Jr.<span class="font-bold text-lg text-canes-orange">17</span></div>
+        <div class="player-name">Ezekiel Marcelin Jr. <span class="font-bold text-lg text-canes-orange">17</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
