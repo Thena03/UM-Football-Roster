@@ -42,7 +42,7 @@ permalink: /linebackers/
 
   <div class="roster-card text-center" data-name="karsten busch">
        <img
-      src="{{ '/static/misc/U_Logo.png'| relative_url }}"
+      src="{{ '/static/2026/Karsten_Busch.png'| relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Karsten Busch"
     >
