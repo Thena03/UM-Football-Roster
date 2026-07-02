@@ -58,7 +58,7 @@ permalink: /defensive-tackles/
       alt="Isaac Chukwurah"
     >
       <div class="player-info">
-        <div class="player-name">Isaac Chukwurah <span class="font-bold text-lg text-canes-orange">52S</span></div>
+        <div class="player-name">Isaac Chukwurah <span class="font-bold text-lg text-canes-orange">52</span></div>
       <!--  <div class="player-details">Defensive Tackle</div>-->
       </div>
     </div>
