@@ -34,7 +34,7 @@ permalink: /quarterbacks/
       loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Judd Anderson</div>
+    <div class="text-lg font-semibold text-white">Judd Anderson <span class="font-bold text-lg text-canes-orange">15</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
@@ -56,7 +56,7 @@ permalink: /quarterbacks/
       loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Dereon Coleman</div>
+    <div class="text-lg font-semibold text-white">Dereon Coleman </div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
