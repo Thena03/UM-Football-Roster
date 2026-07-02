@@ -202,7 +202,7 @@ permalink: /offensive-line/
       alt="Raphael Scroggins"
     >
       <div class="player-info">
-        <div class="player-name">Raphael Scroggins <span class="font-bold text-lg text-canes-orange">64</span></div>
+        <div class="player-name">Raphael Scroggins <span class="font-bold text-lg text-canes-orange">62</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
