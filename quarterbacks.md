@@ -67,7 +67,7 @@ permalink: /quarterbacks/
       loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Vinny Gonzalez <span color="font-bold text-lg text-canes-orange">18</span></div>
+    <div class="text-lg font-semibold text-white">Vinny Gonzalez  <span class="font-bold text-lg text-canes-orange">18</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
@@ -78,7 +78,7 @@ permalink: /quarterbacks/
       loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Darian Mensah <span color="font-bold text-lg text-canes-orange">10</span></div>
+    <div class="text-lg font-semibold text-white">Darian Mensah  <span class="font-bold text-lg text-canes-orange">10</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
   
