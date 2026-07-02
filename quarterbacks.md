@@ -45,7 +45,7 @@ permalink: /quarterbacks/
       loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers</div>
+    <div class="text-lg font-semibold text-white">Joseph "Joe" Borchers <span class="font-bold text-lg text-canes-orange">18</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
@@ -56,7 +56,7 @@ permalink: /quarterbacks/
       loading="lazy"
       class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Dereon Coleman </div>
+    <div class="text-lg font-semibold text-white">Dereon Coleman <span class="font-bold text-lg text-canes-orange">11</span> </div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
@@ -67,7 +67,7 @@ permalink: /quarterbacks/
       loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Vinny Gonzalez</div>
+    <div class="text-lg font-semibold text-white">Vinny Gonzalez <span color="font-bold text-lg text-canes-orange">18</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
 
@@ -78,10 +78,20 @@ permalink: /quarterbacks/
       loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
     >
-    <div class="text-lg font-semibold text-white">Darian Mensah</div>
+    <div class="text-lg font-semibold text-white">Darian Mensah <span color="font-bold text-lg text-canes-orange">10</span></div>
     <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
   </div>
-
+  
+  <div class="roster-card text-center" data-name="Luke Nickel">
+    <img
+      src="{{ '/static/2025/Luke_Nickel.jpg' | relative_url }}"
+      alt="Judd Anderson"
+      loading="lazy"
+      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
+    >
+    <div class="text-lg font-semibold text-white">Luke Nickel <span class="font-bold text-lg text-canes-orange">5</span></div>
+    <!--  <div class="text-slate-400 text-sm">Quarterback</div>-->
+  </div>
 </div>
 
 <!-- Back Button -->

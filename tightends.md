@@ -35,7 +35,7 @@ permalink: /tight-ends/
       alt="Israel Briggs"
     >
       <div class="player-info">
-        <div class="player-name">Israel "Izzy" Briggs</div>
+        <div class="player-name">Israel "Izzy" Briggs <span class="font-bold text-lg text-canes-orange">14</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -47,7 +47,7 @@ permalink: /tight-ends/
       alt="Hunter Carver"
     >
       <div class="player-info">
-        <div class="player-name">Hunter Carver</div>
+        <div class="player-name">Hunter Carver <span class="font-bold text-lg text-canes-orange">80</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -59,7 +59,7 @@ permalink: /tight-ends/
       alt="Jackson Carver"
     >
       <div class="player-info">
-        <div class="player-name">Jackson Carver</div>
+        <div class="player-name">Jackson Carver <span class="font-bold text-lg text-canes-orange">86</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /tight-ends/
       alt="Luka Gilbert"
     >
       <div class="player-info">
-        <div class="player-name">Luka Gilbert</div>
+        <div class="player-name">Luka Gilbert <span class="font-bold text-lg text-canes-orange">88</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -83,19 +83,19 @@ permalink: /tight-ends/
       alt="Elija Lofton"
     >
       <div class="player-info">
-        <div class="player-name">Elija Lofton</div>
+        <div class="player-name">Elija Lofton <span class="font-bold text-lg text-canes-orange">9</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
 
-   <div class="roster-card text-center" data-name="cole mccoonnathy">
+   <div class="roster-card text-center" data-name="cole mcconnathy">
        <img
       src="{{ '/static/2025/Cole_McConnathy.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Cole_McConnathy"
     >
       <div class="player-info">
-        <div class="player-name">Cole McConnathy</div>
+        <div class="player-name">Cole McConnathy <span class="font-bold text-lg text-canes-orange">89</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -107,7 +107,7 @@ permalink: /tight-ends/
       alt="Gavin Mueller "
     >
       <div class="player-info">
-        <div class="player-name">Gavin Mueller</div>
+        <div class="player-name">Gavin Mueller <span class="font-bold text-lg text-canes-orange">87</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>  
@@ -119,7 +119,7 @@ permalink: /tight-ends/
       alt="Jack Nickel"
     >
       <div class="player-info">
-        <div class="player-name">Jack Nickel</div>
+        <div class="player-name">Jack Nickel <span class="font-bold text-lg text-canes-orange">84</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -131,7 +131,7 @@ permalink: /tight-ends/
       alt="Dylan Reiman"
     >
       <div class="player-info">
-        <div class="player-name">Dylan Reiman</div>
+        <div class="player-name">Dylan Reiman <span class="font-bold text-lg text-canes-orange">82</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
@@ -143,7 +143,7 @@ permalink: /tight-ends/
       alt="Owen Ruskavich"
     >
       <div class="player-info">
-        <div class="player-name">Owen Ruskavich</div>
+        <div class="player-name">Owen Ruskavich <span class="font-bold text-lg text-canes-orange">44</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>

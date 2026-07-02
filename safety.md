@@ -36,7 +36,7 @@ permalink: /safety/
       alt="Dylan Day"
     >
       <div class="player-info">
-        <div class="player-name">Dylan Day</div>
+        <div class="player-name">Dylan Day <span color="font-bold text-lg text-canes-orange">23</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -48,7 +48,7 @@ permalink: /safety/
       alt="James Dunnigan"
     >
       <div class="player-info">
-        <div class="player-name">James "JJ" Dunnigan</div>
+        <div class="player-name">James "JJ" Dunnigan <span color="font-bold text-lg text-canes-orange">25</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -60,7 +60,7 @@ permalink: /safety/
       alt="Chris Ewald Jr."
     >
       <div class="player-info">
-        <div class="player-name">Chris Ewald Jr.</div>
+        <div class="player-name">Chris Ewald Jr.<span class="font-bold text-lg text-canes-orange">20</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -72,12 +72,12 @@ permalink: /safety/
       alt="Bryce Fitzgerald"
     >
       <div class="player-info">
-        <div class="player-name">Bryce Fitzgerald</div>
+        <div class="player-name">Bryce Fitzgerald <span class="font-bold text-lg text-canes-orange">3</span></div>
        <!--<div class="player-details">Safety</div>-->
       </div>
     </div>
 
-  <div class="roster-card text-center" data-name="conrad hussey">
+  <!--div class="roster-card text-center" data-name="conrad hussey">
        <img
       src="{{ '/static/2026/Conrad_Hussey.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -85,9 +85,9 @@ permalink: /safety/
     >
       <div class="player-info">
         <div class="player-name">Conrad Hussey</div>
-       <!--<div class="player-details">Safety</div>-->
+       <!--<div class="player-details">Safety</div>
       </div>
-    </div>
+    </div>-->
 
   <div class="roster-card text-center" data-name="monroe ingraham">
        <img
@@ -96,7 +96,7 @@ permalink: /safety/
       alt="Monroe Ingraham"
     >
       <div class="player-info">
-        <div class="player-name">Monroe Ingraham</div>
+        <div class="player-name">Monroe Ingraham <span class="font-bold text-lg text-canes-orange">35</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
@@ -108,7 +108,7 @@ permalink: /safety/
       alt="Ryan Mack"
     >
       <div class="player-info">
-        <div class="player-name">Ryan Mack</div>
+        <div class="player-name">Ryan Mack <span class="font-bold text-lg text-canes-orange">27</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
@@ -120,7 +120,7 @@ permalink: /safety/
       alt="Zechariah Poyser"
     >
       <div class="player-info">
-        <div class="player-name">Zechariah Poyser</div>
+        <div class="player-name">Zechariah Poyser <span class="font-bold text-lg text-canes-orange">7</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
@@ -132,7 +132,7 @@ permalink: /safety/
       alt="Cortez Redding"
     >
       <div class="player-info">
-        <div class="player-name">Cortez Redding</div>
+        <div class="player-name">Cortez Redding <span class="font-bold text-lg text-canes-orange">37</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
@@ -144,7 +144,7 @@ permalink: /safety/
       alt="Tyler Rowe"
     >
       <div class="player-info">
-        <div class="player-name">Tyler Rowe</div>
+        <div class="player-name">Tyler Rowe <span class="font-bold text-lg text-canes-orange">43<</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -156,7 +156,7 @@ permalink: /safety/
       alt="Isaiah Taylor"
     >
       <div class="player-info">
-        <div class="player-name">Isaiah Taylor</div>
+        <div class="player-name">Isaiah Taylor <span class="font-bold text-lg text-canes-orange">28</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>
@@ -168,7 +168,7 @@ permalink: /safety/
       alt="Omar Thornton"
     >
       <div class="player-info">
-        <div class="player-name">Omar Thornton</div>
+        <div class="player-name">Omar Thornton <span class="font-bold text-lg text-canes-orange">0</span></div>
           <!--  <div class="player-details">Safety</div>-->
       </div>
     </div>

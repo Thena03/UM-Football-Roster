@@ -35,7 +35,7 @@ permalink: /linebackers/
       alt="Kamal Bonner"
     >
       <div class="player-info">
-        <div class="player-name">Kamal Bonner</div>
+        <div class="player-name">Kamal Bonner <span class="font-bold text-lg text-canes-orange">11</span></div>
                 <!--  <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -59,7 +59,7 @@ permalink: /linebackers/
       alt="Jordan Campbell"
     >
       <div class="player-info">
-        <div class="player-name">Jordan Campbell</div>
+        <div class="player-name">Jordan Campbell <span class="font-bold text-lg text-canes-orange">34</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /linebackers/
       alt="JJ Edwards"
     >
       <div class="player-info">
-        <div class="player-name">Justin "JJ" Edwards</div>
+        <div class="player-name">Justin "JJ" Edwards <span class="font-bold text-lg text-canes-orange"></span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -83,7 +83,7 @@ permalink: /linebackers/
       alt="Braylon Lamar"
     >
       <div class="player-info">
-        <div class="player-name">Braylon Lamar</div>
+        <div class="player-name">Braylon Lamar <span class="font-bold text-lg text-canes-orange">45</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -95,7 +95,7 @@ permalink: /linebackers/
       alt="Ezeckiel Marcelin Jr."
     >
       <div class="player-info">
-        <div class="player-name">Ezekiel Marcelin Jr.</div>
+        <div class="player-name">Ezekiel Marcelin Jr.<span class="font-bold text-lg text-canes-orange">17</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -107,7 +107,7 @@ permalink: /linebackers/
       alt="Cameron Pruitt."
     >
       <div class="player-info">
-        <div class="player-name">Cameron Pruitt</div>
+        <div class="player-name">Cameron Pruitt <span class="font-bold text-lg text-canes-orange">22</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>
@@ -119,7 +119,7 @@ permalink: /linebackers/
       alt="Casey Rizzi"
     >
       <div class="player-info">
-        <div class="player-name">Casey Rizzi</div>
+        <div class="player-name">Casey Rizzi <span class="font-bold text-lg text-canes-orange">39</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -131,7 +131,7 @@ permalink: /linebackers/
       alt="Chase Smith"
     >
       <div class="player-info">
-        <div class="player-name">Chase Smith</div>
+        <div class="player-name">Chase Smith <span class="font-bold text-lg text-canes-orange">9</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -143,7 +143,7 @@ permalink: /linebackers/
       alt="Mohammed Toure"
     >
       <div class="player-info">
-        <div class="player-name">Mohammed "Mo" Toure</div>
+        <div class="player-name">Mohammed "Mo" Toure <span class="font-bold text-lg text-canes-orange">1</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>
@@ -155,7 +155,7 @@ permalink: /linebackers/
       alt="Kellen Wiley Jr."
     >
       <div class="player-info">
-        <div class="player-name">Kellen Wiley Jr.</div>
+        <div class="player-name">Kellen Wiley Jr. <span class="font-bold text-lg text-canes-orange">30</span></div>
                 <!--   <div class="player-details">Linebacker</div>-->
       </div>
     </div>

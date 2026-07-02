@@ -34,7 +34,7 @@ permalink: /offensive-line/
       alt="Seuseu Alofaituli"
     >
       <div class="player-info">
-        <div class="player-name">Seuseu "SJ" Alofaituli</div>
+        <div class="player-name">Seuseu "SJ" Alofaituli <span class="font-bold text-lg text-canes-orange">65</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -46,7 +46,7 @@ permalink: /offensive-line/
       alt="Max Buchanan"
     >
       <div class="player-info">
-        <div class="player-name">Max Buchanan</div>
+        <div class="player-name">Max Buchanan <span class="font-bold text-lg text-canes-orange">66</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -58,7 +58,7 @@ permalink: /offensive-line/
       alt="Jackson Cantwell"
     >
       <div class="player-info">
-        <div class="player-name">Jackson Cantwell</div>
+        <div class="player-name">Jackson Cantwell <span class="font-bold text-lg text-canes-orange">79</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -69,7 +69,7 @@ permalink: /offensive-line/
       alt="Demetrius Campbell"
     >
       <div class="player-info">
-        <div class="player-name">Demetrius Campbell</div>
+        <div class="player-name">Demetrius Campbell <span class="font-bold text-lg text-canes-orange">72</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -81,7 +81,7 @@ permalink: /offensive-line/
       alt="Johnathan Cline"
     >
       <div class="player-info">
-        <div class="player-name">Johnathan Cline</div>
+        <div class="player-name">Johnathan Cline <span class="font-bold text-lg text-canes-orange">56</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -93,7 +93,7 @@ permalink: /offensive-line/
       alt="Ben Congdon"
     >
       <div class="player-info">
-        <div class="player-name">Ben Congdon</div>
+        <div class="player-name">Ben Congdon <span class="font-bold text-lg text-canes-orange">58</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -105,7 +105,7 @@ permalink: /offensive-line/
       alt="Joel Ervin"
     >
       <div class="player-info">
-        <div class="player-name">Joel Ervin</div>
+        <div class="player-name">Joel Ervin <span class="font-bold text-lg text-canes-orange">70</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -142,7 +142,7 @@ permalink: /offensive-line/
       alt="Jamal Meriweather"
     >
       <div class="player-info">
-        <div class="player-name">Jamal Meriweather</div>
+        <div class="player-name">Jamal Meriweather <span class="font-bold text-lg text-canes-orange">71</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -154,7 +154,7 @@ permalink: /offensive-line/
       alt="Juan Minaya"
     >
       <div class="player-info">
-        <div class="player-name">Juan Minaya</div>
+        <div class="player-name">Juan Minaya <span class="font-bold text-lg text-canes-orange">77</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -166,7 +166,7 @@ permalink: /offensive-line/
       alt="Samson Okunlola"
     >
       <div class="player-info">
-        <div class="player-name">Samson Okunlola</div>
+        <div class="player-name">Samson Okunlola <span class="font-bold text-lg text-canes-orange">63</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -178,7 +178,7 @@ permalink: /offensive-line/
       alt="Canon Pickett"
     >
       <div class="player-info">
-        <div class="player-name">Canon Pickett</div>
+        <div class="player-name">Canon Pickett <span class="font-bold text-lg text-canes-orange">53</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -190,7 +190,7 @@ permalink: /offensive-line/
       alt="Ryan Rodriguez"
     >
       <div class="player-info">
-        <div class="player-name">Ryan Rodriguez</div>
+        <div class="player-name">Ryan Rodriguez <span class="font-bold text-lg text-canes-orange">76</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -202,7 +202,7 @@ permalink: /offensive-line/
       alt="Raphael Scroggins"
     >
       <div class="player-info">
-        <div class="player-name">Raphael Scroggins</div>
+        <div class="player-name">Raphael Scroggins <span class="font-bold text-lg text-canes-orange">64</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -214,7 +214,7 @@ permalink: /offensive-line/
       alt="JJ Sparks"
     >
       <div class="player-info">
-        <div class="player-name">JJ Sparks</div>
+        <div class="player-name">JJ Sparks <span class="font-bold text-lg text-canes-orange">55</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -226,7 +226,7 @@ permalink: /offensive-line/
       alt="Yerovi Valdes"
     >
       <div class="player-info">
-        <div class="player-name">Yerovi Valdes</div>
+        <div class="player-name">Yerovi Valdes <span class="font-bold text-lg text-canes-orange">74</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -238,7 +238,7 @@ permalink: /offensive-line/
       alt="Jaden Wilkerson"
     >
       <div class="player-info">
-        <div class="player-name">Jaden Wilkerson</div>
+        <div class="player-name">Jaden Wilkerson <span class="font-bold text-lg text-canes-orange">73</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
@@ -250,7 +250,7 @@ permalink: /offensive-line/
       alt="Rhys Woodrow"
     >
       <div class="player-info">
-        <div class="player-name">Rhys Woodrow</div>
+        <div class="player-name">Rhys Woodrow <span class="font-bold text-lg text-canes-orange">57</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>

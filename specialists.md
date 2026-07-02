@@ -35,7 +35,7 @@ permalink: /specialists/
       alt="Adam Booker"
     >
       <div class="player-info">
-        <div class="player-name">Adam Booker</div>
+        <div class="player-name">Adam Booker <span class="font-bold text-lg text-canes-orange">46</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
@@ -47,7 +47,7 @@ permalink: /specialists/
       alt="Dylan Joyce"
     >
       <div class="player-info">
-        <div class="player-name">Dylan Joyce</div>
+        <div class="player-name">Dylan Joyce <span class="font-bold text-lg text-canes-orange">94</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
@@ -59,7 +59,7 @@ permalink: /specialists/
       alt="Jack Olsen"
     >
       <div class="player-info">
-        <div class="player-name">Jack Olsen</div>
+        <div class="player-name">Jack Olsen <span class="font-bold text-lg text-canes-orange">82</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /specialists/
       alt="William Rocha"
     >
       <div class="player-info">
-        <div class="player-name">William Rocha</div>
+        <div class="player-name">William Rocha <span class="font-bold text-lg text-canes-orange">97</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
@@ -83,7 +83,7 @@ permalink: /specialists/
       alt="Tucker Tevepaugh"
     >
       <div class="player-info">
-        <div class="player-name">Tucker Tevepaugh</div>
+        <div class="player-name">Tucker Tevepaugh <span class="font-bold text-lg text-canes-orange">96</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
@@ -95,7 +95,7 @@ permalink: /specialists/
       alt="Jake Weinberg"
     >
       <div class="player-info">
-        <div class="player-name">Jake Weinberg</div>
+        <div class="player-name">Jake Weinberg <span class="font-bold text-lg text-canes-orange">22</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
   </div>

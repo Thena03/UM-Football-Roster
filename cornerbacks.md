@@ -35,7 +35,7 @@ permalink: /cornerbacks/
       alt="Jaboree_Antoine"
     >
       <div class="player-info">
-        <div class="player-name">Jaboree Antoine</div>
+        <div class="player-name">Jaboree Antoine <span class="font-bold text-lg text-canes-orange">16</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -59,7 +59,7 @@ permalink: /cornerbacks/
       alt="Damari_Brown"
     >
       <div class="player-info">
-        <div class="player-name">Damari Brown</div>
+        <div class="player-name">Damari Brown <span class="font-bold text-lg text-canes-orange">2</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /cornerbacks/
       alt="OJ Frederique"
     >
       <div class="player-info">
-        <div class="player-name">OJ Frederique</div>
+        <div class="player-name">OJ Frederique <span class="font-bold text-lg text-canes-orange">29</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -83,7 +83,7 @@ permalink: /cornerbacks/
       alt="Brody Jennings"
     >
       <div class="player-info">
-        <div class="player-name">Brody Jennings</div>
+        <div class="player-name">Brody Jennings <span class="font-bold text-lg text-canes-orange">15</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -95,7 +95,7 @@ permalink: /cornerbacks/
       alt="Xavier Lucas"
     >
       <div class="player-info">
-        <div class="player-name">Xavier Lucas</div>
+        <div class="player-name">Xavier Lucas <span class="font-bold text-lg text-canes-orange">6</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -107,7 +107,7 @@ permalink: /cornerbacks/
       alt="Ethan O'Connor"
     >
       <div class="player-info">
-        <div class="player-name"> Ethan O'Connor</div>
+        <div class="player-name"> Ethan O'Connor <span class="font-bold text-lg text-canes-orange">24</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -119,7 +119,7 @@ permalink: /cornerbacks/
       alt="Camdin Portis"
     >
       <div class="player-info">
-        <div class="player-name">Camdin Portis</div>
+        <div class="player-name">Camdin Portis <span class="font-bold text-lg text-canes-orange">21</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -131,7 +131,7 @@ permalink: /cornerbacks/
       alt="Stone Stroud"
     >
       <div class="player-info">
-        <div class="player-name">Stone Stroud</div>
+        <div class="player-name">Stone Stroud <span class="font-bold text-lg text-canes-orange">47</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -143,7 +143,7 @@ permalink: /cornerbacks/
       alt="Jaelen Waters"
     >
       <div class="player-info">
-        <div class="player-name">Jaelen Waters</div>
+        <div class="player-name">Jaelen Waters <span class="font-bold text-lg text-canes-orange">19</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -155,7 +155,7 @@ permalink: /cornerbacks/
       alt="Andres Williams"
     >
       <div class="player-info">
-        <div class="player-name">Andres Williams</div>
+        <div class="player-name">Andres Williams <span class="font-bold text-lg text-canes-orange">48</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -167,7 +167,7 @@ permalink: /cornerbacks/
       alt="Jontavius Wyman"
     >
       <div class="player-info">
-        <div class="player-name">Jontavius Wyman</div>
+        <div class="player-name">Jontavius Wyman <span class="font-bold text-lg text-canes-orange">36</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>

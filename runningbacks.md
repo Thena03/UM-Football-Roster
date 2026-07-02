@@ -36,7 +36,7 @@ permalink: /running-backs/
       alt="Marty Brown"
     >
       <div class="player-info">
-        <div class="player-name">Charmar "Marty" Brown</div>
+        <div class="player-name">Charmar "Marty" Brown <span class="font-bold text-lg text-canes-orange">6</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -50,7 +50,7 @@ permalink: /running-backs/
       alt="Mark Fletcher Jr."
     >
       <div class="player-info">
-        <div class="player-name">Mark Fletcher Jr.</div>
+        <div class="player-name">Mark Fletcher Jr.<span class="font-bold text-lg text-canes-orange">4</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -63,7 +63,7 @@ permalink: /running-backs/
       alt="Jordan Lyle"
     >
       <div class="player-info">
-        <div class="player-name">Jordan Lyle</div>
+        <div class="player-name">Jordan Lyle <span class="font-bold text-lg text-canes-orange">2</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -76,7 +76,7 @@ permalink: /running-backs/
       alt="Javian Mallory"
     >
       <div class="player-info">
-        <div class="player-name">Javian Mallory</div>
+        <div class="player-name">Javian Mallory <span class="font-bold text-lg text-canes-orange">21</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -89,7 +89,7 @@ permalink: /running-backs/
       alt="Girard Pringle"
     >
       <div class="player-info">
-        <div class="player-name">Girard Pringle</div>
+        <div class="player-name">Girard Pringle <span class="font-bold text-lg text-canes-orange">0</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -102,7 +102,7 @@ permalink: /running-backs/
       alt="Terrell Walden II"
     >
       <div class="player-info">
-        <div class="player-name">Terrell Walden II</div>
+        <div class="player-name">Terrell Walden II <span class="font-bold text-lg text-canes-orange">20</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
@@ -115,7 +115,7 @@ permalink: /running-backs/
       alt="Chris Wheatley-Humphrey"
     >
       <div class="player-info">
-        <div class="player-name">Chris Wheatley-Humphrey</div>
+        <div class="player-name">Chris Wheatley-Humphrey <span class="font-bold text-lg text-canes-orange">25</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>  
@@ -128,7 +128,7 @@ permalink: /running-backs/
       alt="Jack Whitehouse"
     >
       <div class="player-info">
-        <div class="player-name">Jack Whitehouse</div>
+        <div class="player-name">Jack Whitehouse <span class="font-bold text-lg text-canes-orange">35</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>

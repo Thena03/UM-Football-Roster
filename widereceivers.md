@@ -36,7 +36,7 @@ permalink: /wide-receivers/
       alt="Brennan Burton"
     >
       <div class="player-info">
-        <div class="player-name">Brennan Burton</div>
+        <div class="player-name">Brennan Burton <span class="font-bold text-lg text-canes-orange">40</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -48,7 +48,7 @@ permalink: /wide-receivers/
       alt="Cooper Barkate"
     >
       <div class="player-info">
-        <div class="player-name">Cooper Barkate</div>
+        <div class="player-name">Cooper Barkate<span class="font-bold text-lg text-canes-orange"> 18</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -60,7 +60,7 @@ permalink: /wide-receivers/
       alt="Tyran Evans"
     >
       <div class="player-info">
-        <div class="player-name">Tyran Evans</div>
+        <div class="player-name">Tyran Evans <span class="font-bold text-lg text-canes-orange">83</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -72,7 +72,7 @@ permalink: /wide-receivers/
       alt="Vandrevius Jacobs"
     >
       <div class="player-info">
-        <div class="player-name">Vandrevius Jacobs</div>
+        <div class="player-name">Vandrevius Jacobs <span class="font-bold text-lg text-canes-orange">8</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -84,7 +84,7 @@ permalink: /wide-receivers/
       alt="Kolby Luna"
     >
       <div class="player-info">
-        <div class="player-name">Kolby Luna</div>
+        <div class="player-name">Kolby Luna <span class="font-bold text-lg text-canes-orange">86</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -96,7 +96,7 @@ permalink: /wide-receivers/
       alt="Riply Luna"
     >
       <div class="player-info">
-        <div class="player-name">Riply Luna</div>
+        <div class="player-name">Riply Luna <span class="font-bold text-lg text-canes-orange">81</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -108,7 +108,7 @@ permalink: /wide-receivers/
       alt="Josh Moore"
     >
       <div class="player-info">
-        <div class="player-name">Josh Moore</div>
+        <div class="player-name">Josh Moore <span class="font-bold text-lg text-canes-orange">3</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -120,7 +120,7 @@ permalink: /wide-receivers/
       alt="Milan Parris"
     >
       <div class="player-info">
-        <div class="player-name">Milan Parris</div>
+        <div class="player-name">Milan Parris <span class="font-bold text-lg text-canes-orange">19</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>  
@@ -132,7 +132,7 @@ permalink: /wide-receivers/
       alt="Vance Spafford"
     >
       <div class="player-info">
-        <div class="player-name">Vance Spafford</div>
+        <div class="player-name">Vance Spafford <span class="font-bold text-lg text-canes-orange">13</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -144,7 +144,7 @@ permalink: /wide-receivers/
       alt="Nick Thomas"
     >
       <div class="player-info">
-        <div class="player-name">Nick Thomas</div>
+        <div class="player-name">Nick Thomas <span class="font-bold text-lg text-canes-orange">33</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -156,7 +156,7 @@ permalink: /wide-receivers/
       alt="Malachi Toney"
     >
       <div class="player-info">
-        <div class="player-name">Malachi Toney</div>
+        <div class="player-name">Malachi Toney <span class="font-bold text-lg text-canes-orange">1</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -168,7 +168,7 @@ permalink: /wide-receivers/
       alt="Daylyn Upshaw"
     >
       <div class="player-info">
-        <div class="player-name">Daylyn Upshaw</div>
+        <div class="player-name">Daylyn Upshaw <span class="font-bold text-lg text-canes-orange">7</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -180,7 +180,7 @@ permalink: /wide-receivers/
       alt="Cam Vaughn"
     >
       <div class="player-info">
-        <div class="player-name">Cam Vaughn</div>
+        <div class="player-name">Cam Vaughn <span class="font-bold text-lg text-canes-orange">17</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>
@@ -192,7 +192,7 @@ permalink: /wide-receivers/
       alt="Somourian Wingo"
     >
       <div class="player-info">
-        <div class="player-name">Soumorian Wingo</div>
+        <div class="player-name">Soumorian Wingo <span class="font-bold text-lg text-canes-orange">12</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>

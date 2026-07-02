@@ -35,7 +35,7 @@ permalink: /defensive-ends/
       alt="Armondo Blount"
     >
       <div class="player-info">
-        <div class="player-name">Armondo Blount</div>
+        <div class="player-name">Armondo Blount <span class="font-bold text-lg text-canes-orange">18</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -47,7 +47,7 @@ permalink: /defensive-ends/
       alt="Asharri Charles"
     >
       <div class="player-info">
-        <div class="player-name">Asharri Charles</div>
+        <div class="player-name">Asharri Charles <span class="font-bold text-lg text-canes-orange">13</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -59,7 +59,7 @@ permalink: /defensive-ends/
       alt="Keona Davis"
     >
       <div class="player-info">
-        <div class="player-name">Keona Davis</div>
+        <div class="player-name">Keona Davis <span class="font-bold text-lg text-canes-orange">97</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /defensive-ends/
       alt="DeAnthony Lafayette"
     >
       <div class="player-info">
-        <div class="player-name">DeAnthony Lafayette</div>
+        <div class="player-name">DeAnthony Lafayette <span class="font-bold text-lg text-canes-orange">88</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -84,7 +84,7 @@ permalink: /defensive-ends/
       alt="Marquise Lightfoot"
     >
       <div class="player-info">
-        <div class="player-name">Marquise Lightfoot</div>
+        <div class="player-name">Marquise Lightfoot <span class="font-bold text-lg text-canes-orange">12</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -96,7 +96,7 @@ permalink: /defensive-ends/
       alt="Hayden Lowe"
     >
       <div class="player-info">
-        <div class="player-name">Hayden Lowe</div>
+        <div class="player-name">Hayden Lowe<span class="font-bold text-lg text-canes-orange">14</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -108,7 +108,7 @@ permalink: /defensive-ends/
       alt="Booker Pickett"
     >
       <div class="player-info">
-        <div class="player-name">Booker Pickett</div>
+        <div class="player-name">Booker Pickett <span class="font-bold text-lg text-canes-orange">33</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -120,7 +120,7 @@ permalink: /defensive-ends/
       alt="Herbert Scroggins III"
     >
       <div class="player-info">
-        <div class="player-name">Herbert Scroggins III</div>
+        <div class="player-name">Herbert Scroggins III <span class="font-bold text-lg text-canes-orange">31</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
@@ -132,7 +132,7 @@ permalink: /defensive-ends/
       alt="Damon Wilson"
     >
       <div class="player-info">
-        <div class="player-name">Damon Wilson II</div>
+        <div class="player-name">Damon Wilson II <span class="font-bold text-lg text-canes-orange">10</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
