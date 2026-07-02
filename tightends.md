@@ -59,7 +59,7 @@ permalink: /tight-ends/
       alt="Jackson Carver"
     >
       <div class="player-info">
-        <div class="player-name">Jackson Carver <span class="font-bold text-lg text-canes-orange">86</span></div>
+        <div class="player-name">Jackson Carver <span class="font-bold text-lg text-canes-orange">85</span></div>
        <!--  <div class="player-details">Tight End</div>-->
       </div>
     </div>
