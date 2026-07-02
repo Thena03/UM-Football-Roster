@@ -112,7 +112,7 @@ permalink: /offensive-line/
 
   <div class="roster-card text-center" data-name="jacob hawks">
        <img
-      src="{{ '/static/2026/Jacob_Hawks.png'| relative_url }}"
+      src="{{ '/static/2026/Jacob_Hawks.jpg'| relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
       alt="Jacob Hawks"
     >
