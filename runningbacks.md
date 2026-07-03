@@ -50,7 +50,7 @@ permalink: /running-backs/
       alt="Mark Fletcher Jr."
     >
       <div class="player-info">
-        <div class="player-name">Mark Fletcher Jr.<span class="font-bold text-lg text-canes-orange">4</span></div>
+        <div class="player-name">Mark Fletcher Jr. <span class="font-bold text-lg text-canes-orange">4</span></div>
                 <!--   <div class="player-details">Running Back</div>-->
       </div>
     </div>
