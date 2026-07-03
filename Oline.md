@@ -250,7 +250,7 @@ permalink: /offensive-line/
       alt="Rhys Woodrow"
     >
       <div class="player-info">
-        <div class="player-name">Rhys Woodrow<span class="font-bold text-lg text-canes-orange">57</span></div>
+        <div class="player-name">Rhys Woodrow <span class="font-bold text-lg text-canes-orange">57</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
