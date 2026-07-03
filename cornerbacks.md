@@ -195,5 +195,5 @@ permalink: /cornerbacks/
   >
     Specialists →
   </a>
-</div>
+
 </div>
