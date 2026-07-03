@@ -150,12 +150,24 @@ permalink: /tight-ends/
 
 </div>
 
-<!-- Back Button -->
-<div class="max-w-6xl mx-auto mt-16 text-center">
+<div class="max-w-6xl mx-auto mt-16 flex flex-col sm:flex-row justify-center gap-4 px-4 text-center">
+<!-- Previous Position -->
+   <a href="{{ '/wide-receivers/' | relative_url }}"
+    class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
+  >
+    ← Wide Receivers
+  </a>
+  <!--Back Button -->
   <a
     href="{{ site.baseurl }}/"
     class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
   >
     ← Back to Home
+  </a>
+<!-- Next Position -->
+   <a href="{{ '/offensive-line/' | relative_url }}"
+    class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
+  >
+    Offensive Line →
   </a>
 </div>

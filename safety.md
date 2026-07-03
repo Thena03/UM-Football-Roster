@@ -175,11 +175,27 @@ permalink: /safety/
 </div>
 
 <!-- Back Button -->
-<div class="max-w-6xl mx-auto mt-16 text-center">
+
+<!-- Back Button -->
+<div class="max-w-6xl mx-auto mt-16 flex flex-col sm:flex-row justify-center gap-4 px-4 text-center">
+<!-- Previous Position -->
+   <a href="{{ '/linebackers/' | relative_url }}"
+    class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
+  >
+    ← Linebackers
+  </a>
+  <!--Back Button -->
   <a
     href="{{ site.baseurl }}/"
     class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
   >
-    ← Back to Home
+    Back to Home
   </a>
+<!-- Next Position -->
+   <a href="{{ '/cornerbacks/' | relative_url }}"
+    class="inline-block bg-green-400 text-slate-900 font-semibold px-8 py-3 rounded-full hover:bg-green-300 transition"
+  >
+    Cornerbacks →
+  </a>
+
 </div>
