@@ -107,7 +107,7 @@ permalink: /linebackers/
       alt="Cameron Pruitt."
     >
       <div class="player-info">
-        <div class="player-name">Cameron Pruitt <span class="font-bold text-lg text-canes-orange">22</span></div>
+        <div class="player-name">Cameron Pruitt <span class="font-bold text-lg text-canes-orange">4</span></div>
        <!-- <div class="player-details">Safety</div> -->
       </div>
     </div>

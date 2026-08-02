@@ -95,7 +95,7 @@ permalink: /tight-ends/
       alt="Cole_McConnathy"
     >
       <div class="player-info">
-        <div class="player-name">Cole McConnathy <!--<span class="font-bold text-lg text-canes-orange">89</span> --></div>
+        <div class="player-name">Cole McConnathy <span class="font-bold text-lg text-canes-orange">86</span></div>
        <!--<div class="player-details">Tight End</div>-->
       </div>
     </div>

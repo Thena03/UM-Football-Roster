@@ -84,7 +84,7 @@ permalink: /defensive-ends/
       alt="Marquise Lightfoot"
     >
       <div class="player-info">
-        <div class="player-name">Marquise Lightfoot <span class="font-bold text-lg text-canes-orange">12</span></div>
+        <div class="player-name">Marquise Lightfoot <span class="font-bold text-lg text-canes-orange">8</span></div>
       <!--   <div class="player-details">Defensive End</div>-->
       </div>
     </div>
