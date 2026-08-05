@@ -47,7 +47,7 @@ permalink: /linebackers/
       alt="Karsten Busch"
     >
       <div class="player-info">
-        <div class="player-name">Karsten Busch</div>
+        <div class="player-name">Karsten Busch <span class="font-bold text-lg text-canes-orange">38</span></div>
                 <!--  <div class="player-details">Linebacker</div>-->
       </div>
     </div>

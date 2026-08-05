@@ -47,7 +47,7 @@ permalink: /cornerbacks/
       alt="Takai Azziz"
     >
       <div class="player-info">
-        <div class="player-name">Takai Azziz</div>
+        <div class="player-name">Takai Azziz <span class="font-bold text-lg text-canes-orange">36</span></div>
       <!--  <div class="player-details">Cornerback</div>-->
       </div>
     </div>
@@ -160,7 +160,7 @@ permalink: /cornerbacks/
       </div>
     </div>
 
-  <div class="roster-card text-center" data-name="jontae wyman">
+<!--   <div class="roster-card text-center" data-name="jontae wyman">
        <img
       src="{{ '/static/2026/Jontavius_Wyman.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -168,9 +168,9 @@ permalink: /cornerbacks/
     >
       <div class="player-info">
         <div class="player-name">Jontavius Wyman <span class="font-bold text-lg text-canes-orange">36</span></div>
-      <!--  <div class="player-details">Cornerback</div>-->
+       <div class="player-details">Cornerback</div>
       </div>
-    </div>
+    </div>-->
 </div>
 
 

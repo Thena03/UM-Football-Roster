@@ -89,7 +89,7 @@ permalink: /defensive-ends/
       </div>
     </div>
 
-  <div class="roster-card text-center" data-name="hayden lowe">
+  <!--div class="roster-card text-center" data-name="hayden lowe">
        <img
       src="{{ '/static/2025/Hayden_Lowe.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -97,9 +97,9 @@ permalink: /defensive-ends/
     >
       <div class="player-info">
         <div class="player-name">Hayden Lowe <span class="font-bold text-lg text-canes-orange">14</span></div>
-      <!--   <div class="player-details">Defensive End</div>-->
+      <div class="player-details">Defensive End</div>
       </div>
-    </div>
+    </div>-->
 
   <div class="roster-card text-center" data-name="booker pickett">
        <img

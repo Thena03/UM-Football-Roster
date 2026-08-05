@@ -84,7 +84,7 @@ permalink: /wide-receivers/
       alt="Kolby Luna"
     >
       <div class="player-info">
-        <div class="player-name">Kolby Luna <span class="font-bold text-lg text-canes-orange">86</span></div>
+        <div class="player-name">Kolby Luna <span class="font-bold text-lg text-canes-orange">38</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
     </div>

@@ -117,7 +117,7 @@ permalink: /offensive-line/
       alt="Jacob Hawks"
     >
       <div class="player-info">
-        <div class="player-name">Jacob Hawks </div>
+        <div class="player-name">Jacob Hawks <span class="font-bold text-lg text-canes-orange">75</span></div>
        <!--  <div class="player-details">Offensive Line</div>-->
       </div>
     </div>
