@@ -44,7 +44,7 @@ permalink: /running-backs/
 
   <div class="roster-card text-center" data-name="mark fletcher">
        <img
-      src="{{ '/static/2025/Mark_Fletcher.png' | relative_url }}"
+      src="{{ '/static/2026/Mark_Fletcher.png' | relative_url }}"
       loading="lazy"
      class="w-full aspect-square object-cover rounded-lg border border-slate-800 mb-3"
       alt="Mark Fletcher Jr."
