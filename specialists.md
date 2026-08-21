@@ -40,6 +40,18 @@ permalink: /specialists/
       </div>
     </div>
 
+  <div class="roster-card text-center" data-name="Vance Diepenbrock">
+       <img
+      src="{{ '/static/2026/Vance_Diepenbrock.jpg' | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Vance Diepenbrock"
+    >
+      <div class="player-info">
+        <div class="player-name">Vance Diepenbrock<span class="font-bold text-lg text-canes-orange">59</span></div>
+       <!--  <div class="player-details">Specialist</div>-->
+      </div>
+    </div>
+
   <div class="roster-card text-center" data-name="dylan joyce">
        <img
       src="{{ '/static/2025/Dylan_Joyce.jpg' | relative_url }}"

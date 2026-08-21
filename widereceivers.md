@@ -53,6 +53,18 @@ permalink: /wide-receivers/
       </div>
     </div>
 
+  <div class="roster-card text-center" data-name="brenden cook">
+       <img
+      src="{{ '/static/2026/Brenden_Cook.jpg' | relative_url }}"
+      class="rounded-lg mb-4 border border-slate-800"
+      alt="Brenden Cook"
+    >
+      <div class="player-info">
+        <div class="player-name">Brenden Cook<span class="font-bold text-lg text-canes-orange"> 37</span></div>
+         <!-- <div class="player-details">Wide Receiver</div>-->
+      </div>
+    </div>
+
   <div class="roster-card text-center" data-name="tyran evans">
        <img
       src="{{ '/static/2026/Tyran_Evans.jpg' | relative_url }}"
@@ -173,7 +185,7 @@ permalink: /wide-receivers/
       </div>
     </div>
 
-  <div class="roster-card text-center" data-name="cam vaughn">
+  <!--<div class="roster-card text-center" data-name="cam vaughn">
        <img
       src="{{ '/static/2026/Cam_Vaughn.jpg' | relative_url }}"
       class="rounded-lg mb-4 border border-slate-800"
@@ -183,7 +195,7 @@ permalink: /wide-receivers/
         <div class="player-name">Cam Vaughn <span class="font-bold text-lg text-canes-orange">17</span></div>
          <!-- <div class="player-details">Wide Receiver</div>-->
       </div>
-    </div>
+    </div>-->
 
    <div class="roster-card text-center" data-name="soumorian wingo">
        <img
