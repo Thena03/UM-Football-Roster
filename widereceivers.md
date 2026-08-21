@@ -193,7 +193,7 @@ permalink: /wide-receivers/
     >
       <div class="player-info">
         <div class="player-name">Cam Vaughn <span class="font-bold text-lg text-canes-orange">17</span></div>
-         <!-- <div class="player-details">Wide Receiver</div>-->
+         <!-- <div class="player-details">Wide Receiver</div>
       </div>
     </div>-->
 
