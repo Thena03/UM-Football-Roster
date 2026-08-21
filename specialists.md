@@ -47,7 +47,7 @@ permalink: /specialists/
       alt="Vance Diepenbrock"
     >
       <div class="player-info">
-        <div class="player-name">Vance Diepenbrock<span class="font-bold text-lg text-canes-orange">59</span></div>
+        <div class="player-name">Vance Diepenbrock <span class="font-bold text-lg text-canes-orange">59</span></div>
        <!--  <div class="player-details">Specialist</div>-->
       </div>
     </div>
